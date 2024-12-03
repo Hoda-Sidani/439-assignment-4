@@ -1,0 +1,33 @@
+<!-- myapp3/templates/myapp3/recommendations.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Recommendations</title>
+</head>
+<body>
+    <h1>Doctor Recommendations</h1>
+    
+    <!-- Form to input query -->
+    <form method="get" action="{% url 'recommend_doctors' %}">
+        <label for="query">Enter your query (e.g., "female surgeon above 300"):</label>
+        <input type="text" id="query" name="query" placeholder="Search doctors..." value="{{ request.GET.query }}">
+        <button type="submit">Search</button>
+    </form>
+
+    <!-- Display filtered doctors -->
+    <h2>Recommended Doctors:</h2>
+    <ul>
+        {% if doctors %}
+            {% for doctor in doctors %}
+                <li>{{ doctor.name }} - {{ doctor.speciality }} - {{ doctor.hospital }} - Fees: {{ doctor.fees }} - Experience: {{ doctor.experience }} years</li>
+            {% endfor %}
+        {% else %}
+            <p>No doctors match your query.</p>
+        {% endif %}
+    </ul>
+
+</body>
+</html>

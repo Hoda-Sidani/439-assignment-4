@@ -1,0 +1,1001 @@
+Person,Job Title,Fees,Contact Info,Address,Recommendation,Gender,Hospital,Email,Experience
+Audrey Jensen,Orthopedic Surgeon,"$1,324 ",81-963757,Aley,5,Female,Aley Medical Center,audrey.jensen@gmail.com,17
+Blake Solis,Oncologic Surgeon,$310 ,71-904718,Byblos,4,Male,Notre Dame de Secours,blake.solis@gmail.com,26
+Laurie Fox,Orthopedic Surgeon,"$1,384 ",81-470425,Byblos,5,Female,Notre Dame de Secours,laurie.fox@gmail.com,5
+Belinda Gray,Plastic Surgeon,$482 ,81-739342,Nabatieh,6,Female,Hammoud Hospital,belinda.gray@gmail.com,35
+Ashley Castro,Cardiothoracic Surgeon,$708 ,81-805370,Baalbek,0,Female,Dar El Amal,ashley.castro@gmail.com,7
+Michael Hampton,Cardiothoracic Surgeon,$549 ,81-577304,Tripoli,9,Male,General Hospital,michael.hampton@gmail.com,5
+Selena Hamilton,Cardiothoracic Surgeon,"$1,325 ",71-363410,Sidon,10,Female,General Hospital,selena.hamilton@gmail.com,5
+Sarah Mitchell,Vascular Surgeon,$744 ,71-479495,Beirut,0,Female,Najjar,sarah.mitchell@gmail.com,14
+Ebony Lane,Orthopedic Surgeon,$380 ,71-565416,Jounieh,3,Male,General Hospital,ebony.lane@gmail.com,17
+Carl Boyd,Plastic Surgeon,"$1,082 ",76-400664,Tripoli,0,Male,General Hospital,carl.boyd@gmail.com,9
+Thomas Morrow,Pediatric Surgeon,"$1,262 ",81-404413,Aley,2,Male,Mount Lebanon,thomas.morrow@gmail.com,5
+Jennifer Carter,Oncologic Surgeon,$471 ,81-369057,Aley,1,Female,Mount Lebanon,jennifer.carter@gmail.com,17
+William Hansen,Pediatric Surgeon,"$1,200 ",76-962545,Nabatieh,5,Male,Al Najda,william.hansen@gmail.com,22
+Brooke Powell,Plastic Surgeon,"$1,348 ",76-755506,Jounieh,3,Male,General Hospital,brooke.powell@gmail.com,3
+Joseph Ellis,Pediatric Surgeon,$707 ,76-928273,Byblos,1,Male,Notre Dame de Secours,joseph.ellis@gmail.com,3
+Evan Dixon,Plastic Surgeon,"$1,179 ",76-384745,Baalbek,7,Male,Dar El Amal,evan.dixon@gmail.com,3
+Carla Jackson,Cardiothoracic Surgeon,$539 ,71-184444,Aley,8,Female,Mount Lebanon,carla.jackson@gmail.com,7
+Spencer Griffin,Neurosurgeon,$330 ,76-622897,Nabatieh,9,Male,Al Najda,spencer.griffin@gmail.com,35
+Lance Smith,Vascular Surgeon,$851 ,76-634414,Byblos,9,Male,Saint Georges,lance.smith@gmail.com,16
+Victor Reed,Neurosurgeon,$321 ,76-980879,Zahle,4,Male,General Hospital,victor.reed@gmail.com,28
+Julian Patterson,Neurosurgeon,$905 ,81-452823,Sidon,4,Male,General Hospital,julian.patterson@gmail.com,10
+Kimberly Armstrong,Pediatric Surgeon,"$1,130 ",71-864591,Tripoli,8,Female,General Hospital,kimberly.armstrong@gmail.com,20
+Barbara Frank,Orthopedic Surgeon,$471 ,71-296304,Tyre,8,Female,General Hospital,barbara.frank@gmail.com,22
+Steven Lawson,Neurosurgeon,$624 ,76-984503,Baalbek,2,Male,Al Zahraa,steven.lawson@gmail.com,26
+Jeffrey Mcdonald,Pediatric Surgeon,$956 ,76-799044,Tyre,9,Male,General Hospital,jeffrey.mcdonald@gmail.com,14
+Brenda Moore,Plastic Surgeon,$991 ,81-182504,Nabatieh,7,Female,Hammoud Hospital,brenda.moore@gmail.com,7
+Sara Mendoza,General Surgeon,$590 ,76-236185,Zahle,6,Female,General Hospital,sara.mendoza@gmail.com,6
+Anna Moore,Orthopedic Surgeon,$759 ,81-917946,Tripoli,10,Female,General Hospital,anna.moore@gmail.com,28
+Misty Mcdaniel,Urologic Surgeon,$553 ,81-833474,Aley,9,Male,Aley Medical Center,misty.mcdaniel@gmail.com,35
+Tyler Calderon,Orthopedic Surgeon,"$1,105 ",76-714671,Nabatieh,4,Male,Hammoud Hospital,tyler.calderon@gmail.com,15
+Nicole Rose,Oncologic Surgeon,"$1,489 ",76-992926,Aley,4,Male,Mount Lebanon,nicole.rose@gmail.com,5
+Jeremy Davis,Neurosurgeon,$974 ,76-438854,Tyre,6,Male,General Hospital,jeremy.davis@gmail.com,16
+Robert Wilson,Urologic Surgeon,$473 ,71-331094,Tyre,7,Male,General Hospital,robert.wilson@gmail.com,35
+Michelle Trevino,General Surgeon,$868 ,81-206246,Aley,4,Male,Aley Medical Center,michelle.trevino@gmail.com,33
+Kim Chambers,Urologic Surgeon,$957 ,76-487099,Tyre,10,Female,General Hospital,kim.chambers@gmail.com,29
+David Mathis,General Surgeon,"$1,227 ",71-584217,Jounieh,0,Male,General Hospital,david.mathis@gmail.com,8
+Alexa Hudson,Pediatric Surgeon,$343 ,76-717838,Beirut,10,Female,Najjar,alexa.hudson@gmail.com,29
+Mario Townsend,Vascular Surgeon,"$1,112 ",76-880394,Beirut,5,Male,Rafic Hariri,mario.townsend@gmail.com,1
+Bill Gutierrez,Urologic Surgeon,"$1,260 ",81-291059,Baalbek,4,Male,Al Zahraa,bill.gutierrez@gmail.com,2
+Peter Rodriguez,Pediatric Surgeon,"$1,498 ",81-273906,Zahle,5,Male,General Hospital,peter.rodriguez@gmail.com,23
+Daryl Barton,Vascular Surgeon,$611 ,81-686317,Tyre,1,Male,General Hospital,daryl.barton@gmail.com,24
+Steven Prince,Cardiothoracic Surgeon,"$1,241 ",81-496590,Zahle,5,Male,General Hospital,steven.prince@gmail.com,3
+Michelle Morales,Vascular Surgeon,"$1,016 ",76-684298,Jounieh,4,Male,General Hospital,michelle.morales@gmail.com,33
+Julian Hill,Oncologic Surgeon,$635 ,71-486564,Aley,5,Male,Mount Lebanon,julian.hill@gmail.com,5
+Abigail Jackson,Pediatric Surgeon,$978 ,81-169898,Tripoli,10,Male,General Hospital,abigail.jackson@gmail.com,13
+Jeffrey Cole,Pediatric Surgeon,"$1,108 ",71-387330,Tyre,8,Male,General Hospital,jeffrey.cole@gmail.com,5
+Lisa Wang,Cardiothoracic Surgeon,"$1,266 ",81-404460,Tripoli,10,Female,General Hospital,lisa.wang@gmail.com,21
+Danielle Odom,Orthopedic Surgeon,$905 ,76-325154,Beirut,6,Male,Rafic Hariri,danielle.odom@gmail.com,29
+Melissa Beasley,Orthopedic Surgeon,$445 ,71-930579,Sidon,5,Female,General Hospital,melissa.beasley@gmail.com,20
+Elaine Morse,Urologic Surgeon,$614 ,76-520698,Baalbek,4,Female,Al Zahraa,elaine.morse@gmail.com,31
+Jacqueline Kennedy,Neurosurgeon,$936 ,76-515377,Beirut,3,Female,CMC,jacqueline.kennedy@gmail.com,12
+Mary Marsh,Cardiothoracic Surgeon,$815 ,76-136711,Tyre,1,Female,General Hospital,mary.marsh@gmail.com,14
+Heather Joseph,Cardiothoracic Surgeon,$804 ,81-343645,Byblos,9,Male,Notre Dame de Secours,heather.joseph@gmail.com,11
+Gregory Nicholson,Orthopedic Surgeon,$824 ,76-834188,Byblos,2,Male,Notre Dame de Secours,gregory.nicholson@gmail.com,1
+Katherine Scott,Urologic Surgeon,$591 ,81-606814,Sidon,6,Female,General Hospital,katherine.scott@gmail.com,23
+John Orozco,General Surgeon,"$1,106 ",71-453141,Nabatieh,10,Male,Al Najda,john.orozco@gmail.com,23
+Joseph Allen,Urologic Surgeon,$569 ,81-257043,Zahle,5,Male,General Hospital,joseph.allen@gmail.com,25
+Colleen Hoover,Pediatric Surgeon,$471 ,81-948988,Beirut,0,Female,Rafic Hariri,colleen.hoover@gmail.com,4
+James Day,Vascular Surgeon,$433 ,76-863691,Baalbek,9,Male,Dar El Amal,james.day@gmail.com,6
+Brian Davis,Vascular Surgeon,"$1,008 ",81-715591,Jounieh,10,Male,General Hospital,brian.davis@gmail.com,16
+Rebekah Sullivan,Oncologic Surgeon,"$1,105 ",71-829716,Jounieh,1,Female,General Hospital,rebekah.sullivan@gmail.com,4
+Kendra Bell,Pediatric Surgeon,"$1,002 ",71-417987,Aley,7,Female,Mount Lebanon,kendra.bell@gmail.com,9
+Omar Brown,General Surgeon,"$1,283 ",81-903516,Nabatieh,0,Male,Hammoud Hospital,omar.brown@gmail.com,10
+Tina Crawford,Plastic Surgeon,$893 ,76-655889,Zahle,3,Female,General Hospital,tina.crawford@gmail.com,31
+Joshua Jimenez,Vascular Surgeon,$442 ,81-113738,Beirut,6,Male,Najjar,joshua.jimenez@gmail.com,30
+Michael Henry,Plastic Surgeon,$625 ,81-317629,Sidon,0,Male,General Hospital,michael.henry@gmail.com,11
+Christine Walker,Cardiothoracic Surgeon,$962 ,76-994222,Tyre,8,Female,General Hospital,christine.walker@gmail.com,13
+Richard Ramsey,Neurosurgeon,$774 ,76-930364,Zahle,8,Male,General Hospital,richard.ramsey@gmail.com,23
+Allison Gray,Pediatric Surgeon,$406 ,71-946053,Zahle,5,Female,General Hospital,allison.gray@gmail.com,32
+Brian Bates,Oncologic Surgeon,"$1,383 ",76-668735,Sidon,6,Male,General Hospital,brian.bates@gmail.com,7
+Crystal Chapman,Pediatric Surgeon,$714 ,76-747194,Sidon,10,Female,General Hospital,crystal.chapman@gmail.com,10
+James Keller,Cardiothoracic Surgeon,"$1,005 ",76-711657,Sidon,3,Male,General Hospital,james.keller@gmail.com,14
+Cody Contreras,General Surgeon,$548 ,76-433592,Byblos,3,Male,Saint Georges,cody.contreras@gmail.com,14
+Laura Woods,Pediatric Surgeon,$702 ,76-426829,Jounieh,8,Female,General Hospital,laura.woods@gmail.com,7
+Jason Lyons,Pediatric Surgeon,"$1,425 ",76-738335,Tripoli,9,Male,General Hospital,jason.lyons@gmail.com,27
+Emily Duke,Oncologic Surgeon,$356 ,81-445625,Aley,6,Female,Aley Medical Center,emily.duke@gmail.com,29
+Jorge Duncan,Orthopedic Surgeon,$815 ,81-671813,Tyre,7,Male,General Hospital,jorge.duncan@gmail.com,24
+Scott Rodriguez,Pediatric Surgeon,"$1,066 ",76-320644,Tyre,0,Male,General Hospital,scott.rodriguez@gmail.com,25
+Michael Parker,Orthopedic Surgeon,"$1,086 ",71-763735,Sidon,9,Male,General Hospital,michael.parker@gmail.com,29
+Yolanda Contreras,Plastic Surgeon,"$1,357 ",71-242730,Beirut,4,Female,Najjar,yolanda.contreras@gmail.com,28
+Brandon Lang,Pediatric Surgeon,"$1,097 ",81-478102,Zahle,8,Male,General Hospital,brandon.lang@gmail.com,17
+Juan Johns,Urologic Surgeon,$410 ,76-522711,Aley,3,Male,Aley Medical Center,juan.johns@gmail.com,19
+Jessica Fitzgerald,Plastic Surgeon,$540 ,71-835790,Nabatieh,8,Female,Hammoud Hospital,jessica.fitzgerald@gmail.com,3
+Justin White,Vascular Surgeon,$465 ,81-347843,Zahle,5,Male,General Hospital,justin.white@gmail.com,30
+Donna Lee,Vascular Surgeon,"$1,079 ",76-980958,Zahle,0,Female,General Hospital,donna.lee@gmail.com,32
+Michael Rogers,Pediatric Surgeon,$638 ,71-779251,Sidon,7,Male,General Hospital,michael.rogers@gmail.com,13
+Carl Reynolds,General Surgeon,"$1,211 ",81-680331,Zahle,3,Male,General Hospital,carl.reynolds@gmail.com,6
+Dwayne Morgan,Neurosurgeon,$744 ,81-301248,Sidon,5,Male,General Hospital,dwayne.morgan@gmail.com,30
+Janice Cole,Oncologic Surgeon,$756 ,76-568331,Jounieh,8,Female,General Hospital,janice.cole@gmail.com,13
+Kenneth Luna,Cardiothoracic Surgeon,$496 ,76-256437,Sidon,10,Male,General Hospital,kenneth.luna@gmail.com,30
+Connie Haley,Pediatric Surgeon,$556 ,71-988602,Baalbek,9,Male,Dar El Amal,connie.haley@gmail.com,2
+Ellen White,Plastic Surgeon,"$1,173 ",71-835222,Zahle,5,Female,General Hospital,ellen.white@gmail.com,32
+Yvonne Bowen,Plastic Surgeon,$423 ,81-457638,Byblos,6,Male,Saint Georges,yvonne.bowen@gmail.com,1
+Rebecca Brown,Cardiothoracic Surgeon,$774 ,76-947195,Aley,8,Female,Mount Lebanon,rebecca.brown@gmail.com,32
+Angela Mccullough,Oncologic Surgeon,$498 ,76-288772,Tyre,5,Female,General Hospital,angela.mccullough@gmail.com,20
+Adam Carroll,Urologic Surgeon,$575 ,81-968956,Tripoli,1,Male,General Hospital,adam.carroll@gmail.com,17
+James Nguyen,Orthopedic Surgeon,"$1,079 ",76-167391,Sidon,3,Male,General Hospital,james.nguyen@gmail.com,11
+Jessica Lane,Pediatric Surgeon,$820 ,81-615680,Sidon,4,Female,General Hospital,jessica.lane@gmail.com,27
+David Stevenson,Urologic Surgeon,$403 ,76-664673,Byblos,0,Male,Notre Dame de Secours,david.stevenson@gmail.com,3
+Sara Joseph,Neurosurgeon,$315 ,76-370476,Byblos,1,Female,Notre Dame de Secours,sara.joseph@gmail.com,14
+Michael Obrien,Cardiothoracic Surgeon,"$1,197 ",71-554599,Zahle,1,Male,General Hospital,michael.obrien@gmail.com,27
+Taylor Jones,General Surgeon,$359 ,76-987223,Tripoli,8,Male,General Hospital,taylor.jones@gmail.com,7
+Dorothy Humphrey,Urologic Surgeon,$605 ,81-599265,Nabatieh,9,Female,Al Najda,dorothy.humphrey@gmail.com,5
+Nathan Patterson,Oncologic Surgeon,"$1,090 ",81-218997,Zahle,2,Male,General Hospital,nathan.patterson@gmail.com,14
+Robert Norris,Oncologic Surgeon,$737 ,81-856403,Nabatieh,2,Male,Hammoud Hospital,robert.norris@gmail.com,20
+Todd Miller,Plastic Surgeon,$946 ,76-280966,Aley,9,Male,Mount Lebanon,todd.miller@gmail.com,13
+Maureen Escobar,Vascular Surgeon,"$1,261 ",81-332606,Tyre,4,Male,General Hospital,maureen.escobar@gmail.com,34
+Nicholas Harris,Orthopedic Surgeon,"$1,341 ",81-357013,Jounieh,9,Male,General Hospital,nicholas.harris@gmail.com,18
+Anne Morris,General Surgeon,"$1,135 ",76-965606,Byblos,2,Female,Notre Dame de Secours,anne.morris@gmail.com,12
+Thomas Jackson,Pediatric Surgeon,"$1,003 ",71-786325,Nabatieh,9,Male,Al Najda,thomas.jackson@gmail.com,22
+Ronald Smith,Neurosurgeon,"$1,098 ",81-980930,Aley,6,Male,Aley Medical Center,ronald.smith@gmail.com,14
+Robert Jacobs,Neurosurgeon,$452 ,71-224115,Sidon,8,Male,General Hospital,robert.jacobs@gmail.com,8
+Debbie Taylor,Urologic Surgeon,$671 ,76-232209,Tyre,5,Female,General Hospital,debbie.taylor@gmail.com,29
+Chad Avila,Plastic Surgeon,"$1,244 ",71-448915,Byblos,2,Male,Notre Dame de Secours,chad.avila@gmail.com,30
+Matthew Wagner,Pediatric Surgeon,$796 ,81-951338,Sidon,4,Male,General Hospital,matthew.wagner@gmail.com,6
+Thomas Espinoza,Plastic Surgeon,$720 ,76-870975,Jounieh,9,Male,General Hospital,thomas.espinoza@gmail.com,11
+David Patterson,Orthopedic Surgeon,$922 ,81-670878,Byblos,7,Male,Saint Georges,david.patterson@gmail.com,32
+April Mendoza,Vascular Surgeon,$679 ,81-916950,Byblos,4,Female,Notre Dame de Secours,april.mendoza@gmail.com,21
+Antonio Hartman,Plastic Surgeon,$332 ,71-398023,Beirut,2,Male,AUBMC,antonio.hartman@gmail.com,27
+Wendy Ramos,Vascular Surgeon,"$1,340 ",81-325932,Tyre,5,Female,General Hospital,wendy.ramos@gmail.com,13
+Jennifer Robinson,Cardiothoracic Surgeon,$742 ,71-349324,Sidon,8,Female,General Hospital,jennifer.robinson@gmail.com,10
+Natalie Buchanan,Oncologic Surgeon,$765 ,81-836307,Jounieh,4,Female,General Hospital,natalie.buchanan@gmail.com,26
+Megan Pearson,Pediatric Surgeon,"$1,147 ",81-338872,Tripoli,8,Female,General Hospital,megan.pearson@gmail.com,12
+Gary Brooks,Vascular Surgeon,$981 ,81-255360,Tyre,9,Male,General Hospital,gary.brooks@gmail.com,35
+Jennifer Fox,Orthopedic Surgeon,$852 ,81-954610,Baalbek,3,Female,Dar El Amal,jennifer.fox@gmail.com,33
+Danielle Jones,Cardiothoracic Surgeon,"$1,170 ",71-539140,Byblos,0,Male,Notre Dame de Secours,danielle.jones@gmail.com,22
+Alexander Ruiz,General Surgeon,"$1,075 ",76-771559,Beirut,5,Male,Rafic Hariri,alexander.ruiz@gmail.com,19
+John Osborne,Urologic Surgeon,$313 ,71-211112,Tyre,5,Male,General Hospital,john.osborne@gmail.com,31
+Mary Collier,Neurosurgeon,$639 ,71-785439,Baalbek,10,Female,Dar El Amal,mary.collier@gmail.com,14
+Rachael Bauer,Orthopedic Surgeon,$309 ,81-641852,Sidon,9,Female,General Hospital,rachael.bauer@gmail.com,20
+Christopher Lopez,Plastic Surgeon,$555 ,76-618883,Baalbek,1,Male,Dar El Amal,christopher.lopez@gmail.com,3
+Scott Lee,Orthopedic Surgeon,$408 ,71-304407,Nabatieh,8,Male,Hammoud Hospital,scott.lee@gmail.com,6
+Carrie Long,Orthopedic Surgeon,"$1,113 ",81-555507,Beirut,3,Male,AUBMC,carrie.long@gmail.com,32
+Gregory Guerrero,Neurosurgeon,"$1,068 ",81-294481,Jounieh,4,Male,General Hospital,gregory.guerrero@gmail.com,2
+Dillon Gonzalez,Cardiothoracic Surgeon,"$1,175 ",76-593522,Tyre,7,Male,General Hospital,dillon.gonzalez@gmail.com,24
+Jennifer Robinson,General Surgeon,"$1,390 ",81-403285,Byblos,3,Female,Notre Dame de Secours,jennifer.robinson@gmail.com,34
+Jamie Dawson,Urologic Surgeon,$428 ,76-985811,Tripoli,5,Female,General Hospital,jamie.dawson@gmail.com,20
+Courtney Evans,Urologic Surgeon,"$1,131 ",71-991972,Jounieh,4,Female,General Hospital,courtney.evans@gmail.com,21
+Erin Savage,Cardiothoracic Surgeon,$957 ,76-415634,Baalbek,0,Male,Dar El Amal,erin.savage@gmail.com,4
+Crystal Rogers,Cardiothoracic Surgeon,"$1,385 ",81-990726,Sidon,6,Female,General Hospital,crystal.rogers@gmail.com,31
+Kevin Bird,Pediatric Surgeon,$969 ,71-463094,Baalbek,10,Male,Dar El Amal,kevin.bird@gmail.com,10
+Whitney Christensen,Urologic Surgeon,$846 ,81-803842,Byblos,10,Female,Saint Georges,whitney.christensen@gmail.com,21
+Michelle Reynolds,Vascular Surgeon,$553 ,71-859294,Byblos,0,Female,Saint Georges,michelle.reynolds@gmail.com,24
+Melinda Moore,Orthopedic Surgeon,$734 ,76-325465,Beirut,2,Female,CMC,melinda.moore@gmail.com,19
+Jonathan Boyd,Vascular Surgeon,$377 ,71-957809,Tripoli,7,Male,General Hospital,jonathan.boyd@gmail.com,7
+Michael Ellis,Plastic Surgeon,$492 ,81-892474,Tripoli,3,Male,General Hospital,michael.ellis@gmail.com,8
+Matthew Morrow,Neurosurgeon,$367 ,71-340148,Aley,8,Male,Mount Lebanon,matthew.morrow@gmail.com,8
+David Campbell,General Surgeon,$426 ,81-356099,Beirut,0,Male,Rafic Hariri,david.campbell@gmail.com,10
+Leslie Dodson,Neurosurgeon,$469 ,81-289366,Baalbek,9,Female,Dar El Amal,leslie.dodson@gmail.com,25
+Roberto Walton,Neurosurgeon,$408 ,81-630222,Zahle,10,Male,General Hospital,roberto.walton@gmail.com,15
+Paul Golden,Neurosurgeon,$482 ,76-695379,Baalbek,3,Male,Al Zahraa,paul.golden@gmail.com,23
+Heather Torres,Orthopedic Surgeon,"$1,144 ",81-330306,Beirut,9,Female,AUBMC,heather.torres@gmail.com,26
+Brenda Kennedy,Orthopedic Surgeon,"$1,182 ",76-345082,Jounieh,8,Female,General Hospital,brenda.kennedy@gmail.com,4
+Ashley Brady,Urologic Surgeon,$551 ,81-147990,Nabatieh,7,Female,Hammoud Hospital,ashley.brady@gmail.com,1
+Brandon Cameron,General Surgeon,$728 ,71-486720,Nabatieh,6,Male,Hammoud Hospital,brandon.cameron@gmail.com,5
+Derek Hanson,Pediatric Surgeon,"$1,284 ",71-686450,Beirut,2,Male,AUBMC,derek.hanson@gmail.com,24
+Andrew Brooks,Pediatric Surgeon,"$1,277 ",76-203003,Jounieh,5,Male,General Hospital,andrew.brooks@gmail.com,27
+Elizabeth Rogers,Vascular Surgeon,"$1,449 ",76-779429,Aley,1,Female,Mount Lebanon,elizabeth.rogers@gmail.com,14
+David Knight,Urologic Surgeon,$369 ,76-358277,Jounieh,10,Male,General Hospital,david.knight@gmail.com,4
+Daniel Marshall,Urologic Surgeon,$894 ,81-883230,Beirut,0,Male,Najjar,daniel.marshall@gmail.com,9
+Michael Mcmillan,Urologic Surgeon,$960 ,71-872408,Beirut,6,Male,Rafic Hariri,michael.mcmillan@gmail.com,13
+Emily Moon,Vascular Surgeon,$677 ,76-484636,Beirut,5,Female,Rafic Hariri,emily.moon@gmail.com,7
+Desiree Guzman,Oncologic Surgeon,"$1,254 ",81-804825,Tyre,2,Male,General Hospital,desiree.guzman@gmail.com,15
+Katherine Jordan,General Surgeon,"$1,359 ",81-181924,Zahle,2,Female,General Hospital,katherine.jordan@gmail.com,12
+Alexandra Erickson,Pediatric Surgeon,"$1,474 ",71-761350,Tripoli,7,Female,General Hospital,alexandra.erickson@gmail.com,26
+Hunter Reeves,Urologic Surgeon,$979 ,71-965538,Beirut,9,Male,AUBMC,hunter.reeves@gmail.com,28
+Matthew Douglas,Cardiothoracic Surgeon,$660 ,81-990898,Byblos,1,Male,Saint Georges,matthew.douglas@gmail.com,31
+Pam Atkinson,Orthopedic Surgeon,$539 ,71-456440,Tripoli,2,Male,General Hospital,pam.atkinson@gmail.com,27
+Rebecca Bowen,General Surgeon,$927 ,81-699665,Aley,7,Female,Aley Medical Center,rebecca.bowen@gmail.com,32
+Tyler Campbell,Plastic Surgeon,$461 ,71-464335,Tripoli,10,Male,General Hospital,tyler.campbell@gmail.com,29
+Laurie Ruiz,Vascular Surgeon,$527 ,81-273656,Jounieh,4,Female,General Hospital,laurie.ruiz@gmail.com,2
+Kelly Keller,Vascular Surgeon,$919 ,71-952009,Sidon,2,Female,General Hospital,kelly.keller@gmail.com,22
+Rachel Gonzalez,Plastic Surgeon,"$1,391 ",76-664942,Baalbek,10,Female,Al Zahraa,rachel.gonzalez@gmail.com,18
+Kelli Johnson,Oncologic Surgeon,"$1,362 ",76-249120,Tripoli,2,Female,General Hospital,kelli.johnson@gmail.com,34
+Ronald Lopez,Urologic Surgeon,$867 ,81-678970,Byblos,3,Male,Saint Georges,ronald.lopez@gmail.com,2
+Sarah Chapman,Oncologic Surgeon,"$1,346 ",71-453234,Byblos,7,Female,Saint Georges,sarah.chapman@gmail.com,23
+Steven Anderson,Pediatric Surgeon,"$1,318 ",71-663293,Tyre,0,Male,General Hospital,steven.anderson@gmail.com,29
+William Scott,Neurosurgeon,"$1,317 ",71-109259,Jounieh,0,Male,General Hospital,william.scott@gmail.com,9
+Jill Nguyen,Vascular Surgeon,"$1,424 ",81-417900,Byblos,8,Male,Saint Georges,jill.nguyen@gmail.com,25
+Charles Williams,Neurosurgeon,$639 ,71-566648,Baalbek,0,Male,Dar El Amal,charles.williams@gmail.com,18
+Nathan Lee,Urologic Surgeon,"$1,259 ",76-583332,Aley,5,Male,Mount Lebanon,nathan.lee@gmail.com,11
+Philip Hill,Plastic Surgeon,"$1,272 ",81-434646,Byblos,0,Male,Saint Georges,philip.hill@gmail.com,34
+Brandon Owens,Oncologic Surgeon,$751 ,71-226100,Tyre,10,Male,General Hospital,brandon.owens@gmail.com,28
+Kimberly Olson,Orthopedic Surgeon,$574 ,81-673421,Sidon,8,Female,General Hospital,kimberly.olson@gmail.com,32
+Jermaine Clark,Vascular Surgeon,$675 ,71-348378,Baalbek,0,Male,Al Zahraa,jermaine.clark@gmail.com,8
+Anthony Vasquez,Pediatric Surgeon,$367 ,76-653925,Beirut,1,Male,CMC,anthony.vasquez@gmail.com,31
+Patricia Strong,Pediatric Surgeon,$417 ,71-226947,Jounieh,1,Female,General Hospital,patricia.strong@gmail.com,11
+Brittany Fry,General Surgeon,"$1,057 ",76-920239,Aley,2,Female,Aley Medical Center,brittany.fry@gmail.com,22
+Stephanie Noble,Orthopedic Surgeon,$303 ,71-464295,Sidon,7,Female,General Hospital,stephanie.noble@gmail.com,12
+Jesse Cross,Urologic Surgeon,"$1,497 ",71-574280,Baalbek,2,Male,Dar El Amal,jesse.cross@gmail.com,2
+Mark Combs,Cardiothoracic Surgeon,"$1,410 ",81-829725,Tyre,3,Male,General Hospital,mark.combs@gmail.com,27
+David Taylor,General Surgeon,"$1,334 ",71-483388,Nabatieh,5,Male,Al Najda,david.taylor@gmail.com,34
+Barry Wilson,Orthopedic Surgeon,$941 ,76-471206,Sidon,0,Male,General Hospital,barry.wilson@gmail.com,30
+Tiffany Gomez,Oncologic Surgeon,"$1,401 ",71-359315,Nabatieh,8,Female,Hammoud Hospital,tiffany.gomez@gmail.com,1
+Margaret Hobbs,Pediatric Surgeon,$459 ,76-865645,Tyre,9,Female,General Hospital,margaret.hobbs@gmail.com,27
+Brian Graham,Vascular Surgeon,$322 ,71-321171,Zahle,6,Male,General Hospital,brian.graham@gmail.com,7
+Sean Christian,Urologic Surgeon,$423 ,81-933181,Tripoli,3,Male,General Hospital,sean.christian@gmail.com,34
+Linda Bailey,Orthopedic Surgeon,"$1,500 ",71-874403,Nabatieh,8,Female,Hammoud Hospital,linda.bailey@gmail.com,8
+James Clark,General Surgeon,"$1,018 ",81-313651,Aley,4,Male,Mount Lebanon,james.clark@gmail.com,20
+Julia Ballard,Oncologic Surgeon,$544 ,76-983085,Zahle,0,Female,General Hospital,julia.ballard@gmail.com,22
+Teresa Cabrera,Vascular Surgeon,$335 ,81-972323,Beirut,9,Female,Rafic Hariri,teresa.cabrera@gmail.com,23
+Mary Mendoza,Plastic Surgeon,"$1,258 ",71-863140,Nabatieh,10,Female,Hammoud Hospital,mary.mendoza@gmail.com,21
+Janet Williams,Pediatric Surgeon,$838 ,71-562638,Zahle,4,Female,General Hospital,janet.williams@gmail.com,28
+Maria Swanson,Vascular Surgeon,$590 ,81-257745,Aley,4,Female,Aley Medical Center,maria.swanson@gmail.com,18
+Nicole Hernandez,Neurosurgeon,$604 ,76-158477,Zahle,3,Female,General Hospital,nicole.hernandez@gmail.com,24
+Marco Williams,Vascular Surgeon,$772 ,76-395148,Aley,8,Male,Mount Lebanon,marco.williams@gmail.com,7
+David Hill,Oncologic Surgeon,"$1,459 ",76-171695,Aley,1,Male,Aley Medical Center,david.hill@gmail.com,33
+Vincent Everett,Pediatric Surgeon,"$1,448 ",81-217476,Baalbek,3,Male,Dar El Amal,vincent.everett@gmail.com,1
+Roberta Lee,Cardiothoracic Surgeon,$392 ,81-847826,Tyre,7,Female,General Hospital,roberta.lee@gmail.com,22
+Jennifer Simpson,General Surgeon,$371 ,81-452037,Baalbek,0,Female,Al Zahraa,jennifer.simpson@gmail.com,14
+Kendra Bailey,Orthopedic Surgeon,$852 ,81-161643,Tripoli,3,Female,General Hospital,kendra.bailey@gmail.com,5
+Haley Richards,Pediatric Surgeon,$345 ,71-474794,Baalbek,4,Female,Al Zahraa,haley.richards@gmail.com,28
+Hannah Roberts,Cardiothoracic Surgeon,$572 ,76-429974,Zahle,5,Female,General Hospital,hannah.roberts@gmail.com,21
+Mark Wood,Urologic Surgeon,"$1,253 ",76-546191,Tripoli,10,Male,General Hospital,mark.wood@gmail.com,15
+David Taylor,Oncologic Surgeon,$822 ,76-714704,Tripoli,10,Male,General Hospital,david.taylor@gmail.com,1
+Richard Ball,Orthopedic Surgeon,$773 ,81-531792,Tyre,2,Male,General Hospital,richard.ball@gmail.com,2
+Kimberly Wilson,Vascular Surgeon,"$1,205 ",81-651197,Baalbek,10,Female,Dar El Amal,kimberly.wilson@gmail.com,28
+Jerry Monroe,Urologic Surgeon,$301 ,76-662851,Tripoli,8,Male,General Hospital,jerry.monroe@gmail.com,7
+Sara Wallace,Orthopedic Surgeon,"$1,463 ",71-387584,Sidon,6,Female,General Hospital,sara.wallace@gmail.com,4
+Tamara Davis,Neurosurgeon,$386 ,71-827735,Jounieh,7,Female,General Hospital,tamara.davis@gmail.com,17
+Angela Smith,Neurosurgeon,"$1,142 ",76-632809,Beirut,6,Female,Rafic Hariri,angela.smith@gmail.com,27
+James Jones,Pediatric Surgeon,$438 ,76-701989,Nabatieh,4,Male,Hammoud Hospital,james.jones@gmail.com,22
+Scott Olson,General Surgeon,$670 ,76-972125,Aley,4,Male,Mount Lebanon,scott.olson@gmail.com,2
+Maria Knight,Orthopedic Surgeon,"$1,407 ",76-757777,Zahle,5,Female,General Hospital,maria.knight@gmail.com,35
+Kelly Cox,Oncologic Surgeon,"$1,301 ",71-434182,Beirut,10,Female,Najjar,kelly.cox@gmail.com,16
+Amy Manning,General Surgeon,"$1,197 ",76-960901,Sidon,0,Female,General Hospital,amy.manning@gmail.com,24
+Anthony Hudson,Vascular Surgeon,"$1,140 ",76-152174,Jounieh,0,Male,General Hospital,anthony.hudson@gmail.com,18
+Trevor Wood,Pediatric Surgeon,"$1,209 ",76-793443,Byblos,9,Male,Saint Georges,trevor.wood@gmail.com,21
+Briana Lawson,Urologic Surgeon,"$1,478 ",76-693698,Zahle,5,Female,General Hospital,briana.lawson@gmail.com,8
+Miranda Bell,Vascular Surgeon,"$1,119 ",76-295226,Sidon,2,Female,General Hospital,miranda.bell@gmail.com,7
+Lucas Howard,Urologic Surgeon,"$1,275 ",71-137951,Baalbek,3,Male,Al Zahraa,lucas.howard@gmail.com,34
+Shawn Kelley,Vascular Surgeon,$907 ,81-764682,Tripoli,5,Male,General Hospital,shawn.kelley@gmail.com,7
+Steven Martinez,Pediatric Surgeon,$729 ,81-853653,Tyre,7,Male,General Hospital,steven.martinez@gmail.com,5
+Paul Sanchez,Cardiothoracic Surgeon,$742 ,71-497016,Byblos,7,Male,Notre Dame de Secours,paul.sanchez@gmail.com,16
+Jonathan Fox,Cardiothoracic Surgeon,"$1,417 ",76-585205,Aley,7,Male,Aley Medical Center,jonathan.fox@gmail.com,24
+Brandon Rodriguez,Vascular Surgeon,"$1,240 ",81-765910,Nabatieh,9,Male,Al Najda,brandon.rodriguez@gmail.com,25
+Christian Blair,Oncologic Surgeon,$998 ,76-904075,Baalbek,10,Male,Dar El Amal,christian.blair@gmail.com,28
+Charles Nguyen,Orthopedic Surgeon,$857 ,81-762663,Zahle,5,Male,General Hospital,charles.nguyen@gmail.com,23
+Paul Meza,Vascular Surgeon,$876 ,81-493733,Jounieh,2,Male,General Hospital,paul.meza@gmail.com,21
+Laura Young,Orthopedic Surgeon,"$1,074 ",76-555130,Zahle,5,Female,General Hospital,laura.young@gmail.com,6
+Elaine Freeman,Cardiothoracic Surgeon,$395 ,71-393243,Baalbek,5,Female,Dar El Amal,elaine.freeman@gmail.com,7
+Lindsey Lane,Orthopedic Surgeon,$321 ,71-749748,Sidon,8,Female,General Hospital,lindsey.lane@gmail.com,7
+Holly Young,Urologic Surgeon,"$1,468 ",71-924715,Baalbek,4,Female,Dar El Amal,holly.young@gmail.com,5
+Christopher Nguyen,General Surgeon,$964 ,81-887318,Tyre,4,Male,General Hospital,christopher.nguyen@gmail.com,17
+Caleb Hale,Pediatric Surgeon,$860 ,81-581129,Sidon,3,Male,General Hospital,caleb.hale@gmail.com,19
+Stephanie Lee,Plastic Surgeon,$471 ,76-242323,Nabatieh,5,Female,Al Najda,stephanie.lee@gmail.com,28
+Adam Oliver,Neurosurgeon,"$1,179 ",81-199620,Aley,3,Male,Mount Lebanon,adam.oliver@gmail.com,23
+Sherry Thompson,Vascular Surgeon,"$1,154 ",81-202166,Sidon,4,Female,General Hospital,sherry.thompson@gmail.com,25
+Jake Owens,Urologic Surgeon,$839 ,71-836718,Sidon,9,Male,General Hospital,jake.owens@gmail.com,16
+Andrew Smith,Pediatric Surgeon,"$1,417 ",71-248640,Tyre,6,Male,General Hospital,andrew.smith@gmail.com,31
+Alex Rodriguez,Cardiothoracic Surgeon,"$1,434 ",71-779349,Beirut,7,Male,Rafic Hariri,alex.rodriguez@gmail.com,34
+Yvonne Garrison,Oncologic Surgeon,$385 ,71-520367,Tripoli,5,Male,General Hospital,yvonne.garrison@gmail.com,9
+Gloria Schwartz,Pediatric Surgeon,$379 ,81-620743,Zahle,9,Female,General Hospital,gloria.schwartz@gmail.com,2
+Laura Bell,General Surgeon,$509 ,71-797400,Nabatieh,1,Female,Hammoud Hospital,laura.bell@gmail.com,29
+Denise Hamilton,Orthopedic Surgeon,$772 ,76-575406,Sidon,8,Male,General Hospital,denise.hamilton@gmail.com,33
+Julia Gomez,Oncologic Surgeon,$903 ,81-431113,Tripoli,10,Female,General Hospital,julia.gomez@gmail.com,7
+Joshua Davis,General Surgeon,$719 ,71-317992,Baalbek,7,Male,Dar El Amal,joshua.davis@gmail.com,31
+Matthew Murray,Oncologic Surgeon,$474 ,81-475910,Zahle,2,Male,General Hospital,matthew.murray@gmail.com,28
+Joseph Morris,Urologic Surgeon,"$1,176 ",76-155910,Tripoli,4,Male,General Hospital,joseph.morris@gmail.com,34
+Melissa Barnes,Neurosurgeon,"$1,192 ",81-463659,Jounieh,10,Female,General Hospital,melissa.barnes@gmail.com,2
+Jeremy Franco,Oncologic Surgeon,$892 ,81-861596,Tripoli,3,Male,General Hospital,jeremy.franco@gmail.com,15
+Elizabeth Murphy,Orthopedic Surgeon,$668 ,81-981127,Tyre,9,Female,General Hospital,elizabeth.murphy@gmail.com,22
+Tony Ramirez,Plastic Surgeon,$988 ,81-833851,Tyre,8,Male,General Hospital,tony.ramirez@gmail.com,31
+Jennifer Warner,Oncologic Surgeon,"$1,108 ",71-116394,Byblos,9,Female,Notre Dame de Secours,jennifer.warner@gmail.com,18
+Jeremy Watkins,Neurosurgeon,$847 ,71-498699,Tripoli,10,Male,General Hospital,jeremy.watkins@gmail.com,20
+Marcus Brooks,Urologic Surgeon,"$1,332 ",71-753651,Tyre,4,Male,General Hospital,marcus.brooks@gmail.com,29
+Veronica Mcdaniel,Orthopedic Surgeon,"$1,310 ",71-445700,Sidon,1,Female,General Hospital,veronica.mcdaniel@gmail.com,25
+Cheryl Mendoza,Neurosurgeon,"$1,485 ",76-623646,Sidon,8,Female,General Hospital,cheryl.mendoza@gmail.com,3
+Doris Thompson,Orthopedic Surgeon,"$1,417 ",71-770768,Sidon,3,Male,General Hospital,doris.thompson@gmail.com,10
+Corey Mercado,Cardiothoracic Surgeon,"$1,276 ",71-748571,Sidon,8,Male,General Hospital,corey.mercado@gmail.com,33
+Patrick Odonnell,Oncologic Surgeon,"$1,126 ",76-707855,Zahle,4,Male,General Hospital,patrick.odonnell@gmail.com,25
+Amanda Hart,Urologic Surgeon,$841 ,71-239088,Nabatieh,4,Female,Al Najda,amanda.hart@gmail.com,18
+Jennifer Davis,Orthopedic Surgeon,$365 ,81-955234,Byblos,6,Female,Notre Dame de Secours,jennifer.davis@gmail.com,27
+Carolyn Bennett,Pediatric Surgeon,$839 ,81-462530,Baalbek,4,Female,Al Zahraa,carolyn.bennett@gmail.com,5
+Maria Harrington,Neurosurgeon,$589 ,71-489400,Sidon,8,Female,General Hospital,maria.harrington@gmail.com,28
+Caleb King,Orthopedic Surgeon,$686 ,76-565691,Tyre,5,Male,General Hospital,caleb.king@gmail.com,20
+Jessica Mccoy,Cardiothoracic Surgeon,$381 ,71-781574,Aley,6,Female,Mount Lebanon,jessica.mccoy@gmail.com,30
+Jennifer Hensley,General Surgeon,$456 ,81-229565,Nabatieh,2,Female,Hammoud Hospital,jennifer.hensley@gmail.com,3
+Mary Chan,Neurosurgeon,"$1,010 ",81-687659,Tyre,2,Female,General Hospital,mary.chan@gmail.com,14
+Jeffery Craig,Orthopedic Surgeon,$306 ,76-362114,Byblos,0,Male,Notre Dame de Secours,jeffery.craig@gmail.com,14
+Michelle Davis,Neurosurgeon,"$1,235 ",76-671634,Tyre,6,Male,General Hospital,michelle.davis@gmail.com,22
+Gregory Bridges,Cardiothoracic Surgeon,"$1,333 ",71-162641,Zahle,2,Male,General Hospital,gregory.bridges@gmail.com,3
+Christopher Carter,Urologic Surgeon,"$1,172 ",81-279091,Byblos,1,Male,Notre Dame de Secours,christopher.carter@gmail.com,3
+David Solomon,Cardiothoracic Surgeon,"$1,295 ",81-169897,Sidon,4,Male,General Hospital,david.solomon@gmail.com,25
+Kayla Sanchez,Urologic Surgeon,"$1,268 ",76-272335,Zahle,0,Female,General Hospital,kayla.sanchez@gmail.com,20
+Erik Martin,Plastic Surgeon,"$1,394 ",76-273728,Tyre,3,Male,General Hospital,erik.martin@gmail.com,35
+Tanya Richardson,Urologic Surgeon,$935 ,81-680514,Baalbek,2,Female,Al Zahraa,tanya.richardson@gmail.com,4
+William Sharp,Vascular Surgeon,$611 ,81-297252,Baalbek,0,Male,Dar El Amal,william.sharp@gmail.com,8
+Rebecca Mann,Plastic Surgeon,"$1,363 ",71-102141,Sidon,10,Female,General Hospital,rebecca.mann@gmail.com,26
+Kristina Savage,Urologic Surgeon,$835 ,71-530426,Baalbek,1,Female,Dar El Amal,kristina.savage@gmail.com,35
+Cynthia Marshall,Pediatric Surgeon,"$1,148 ",76-586625,Zahle,1,Female,General Hospital,cynthia.marshall@gmail.com,34
+Jeanette Petersen,Vascular Surgeon,$717 ,81-547012,Baalbek,9,Female,Dar El Amal,jeanette.petersen@gmail.com,19
+Michael Wilson,Plastic Surgeon,"$1,108 ",71-192030,Tyre,2,Male,General Hospital,michael.wilson@gmail.com,33
+Alexa Higgins,Urologic Surgeon,$520 ,81-877316,Beirut,0,Female,Rafic Hariri,alexa.higgins@gmail.com,10
+Veronica Ford,Vascular Surgeon,"$1,370 ",71-625634,Aley,7,Female,Aley Medical Center,veronica.ford@gmail.com,2
+Brandon White,Oncologic Surgeon,$380 ,76-511305,Jounieh,6,Male,General Hospital,brandon.white@gmail.com,21
+Julie Graham,Neurosurgeon,"$1,084 ",71-397671,Jounieh,4,Female,General Hospital,julie.graham@gmail.com,19
+Richard Hernandez,Orthopedic Surgeon,"$1,194 ",71-758411,Sidon,4,Male,General Hospital,richard.hernandez@gmail.com,30
+Michelle Santiago,Plastic Surgeon,"$1,474 ",81-247684,Zahle,9,Male,General Hospital,michelle.santiago@gmail.com,4
+Alan Thompson,General Surgeon,$747 ,76-270527,Byblos,1,Male,Saint Georges,alan.thompson@gmail.com,3
+Caitlyn Roberts,Orthopedic Surgeon,$957 ,81-676240,Baalbek,3,Female,Dar El Amal,caitlyn.roberts@gmail.com,8
+James Wright,General Surgeon,$993 ,71-496955,Zahle,2,Male,General Hospital,james.wright@gmail.com,23
+Jonathan Mendoza,Pediatric Surgeon,$423 ,81-676210,Nabatieh,7,Male,Al Najda,jonathan.mendoza@gmail.com,11
+Melody Donaldson,Oncologic Surgeon,"$1,297 ",71-571838,Baalbek,8,Female,Al Zahraa,melody.donaldson@gmail.com,32
+Jennifer Mccann,Orthopedic Surgeon,$550 ,81-198243,Jounieh,10,Female,General Hospital,jennifer.mccann@gmail.com,27
+Abigail Delgado,Oncologic Surgeon,$627 ,81-122769,Tripoli,1,Male,General Hospital,abigail.delgado@gmail.com,24
+Diana Duncan,Orthopedic Surgeon,$859 ,76-393892,Aley,1,Female,Mount Lebanon,diana.duncan@gmail.com,12
+Michael Conner,Pediatric Surgeon,"$1,420 ",76-721152,Sidon,8,Male,General Hospital,michael.conner@gmail.com,20
+Elizabeth Wright,Orthopedic Surgeon,"$1,448 ",76-297417,Tyre,10,Female,General Hospital,elizabeth.wright@gmail.com,31
+Rhonda Smith,Vascular Surgeon,$379 ,81-831106,Nabatieh,4,Female,Hammoud Hospital,rhonda.smith@gmail.com,4
+Michael Anderson,Orthopedic Surgeon,$417 ,81-102517,Nabatieh,6,Male,Al Najda,michael.anderson@gmail.com,29
+Kevin Boyd,Oncologic Surgeon,$666 ,76-531881,Aley,10,Male,Aley Medical Center,kevin.boyd@gmail.com,13
+Steven Pope,Oncologic Surgeon,"$1,036 ",81-337141,Baalbek,3,Male,Al Zahraa,steven.pope@gmail.com,13
+Kenneth Harris,Orthopedic Surgeon,"$1,462 ",81-358191,Aley,5,Male,Mount Lebanon,kenneth.harris@gmail.com,13
+Karen Ellis,Vascular Surgeon,$518 ,76-274640,Jounieh,1,Female,General Hospital,karen.ellis@gmail.com,17
+Amanda Palmer,Cardiothoracic Surgeon,$577 ,76-692354,Jounieh,7,Female,General Hospital,amanda.palmer@gmail.com,8
+Jose Shaw,Oncologic Surgeon,$946 ,71-547244,Jounieh,1,Male,General Hospital,jose.shaw@gmail.com,21
+Jonathan Baker,General Surgeon,"$1,063 ",81-372805,Zahle,4,Male,General Hospital,jonathan.baker@gmail.com,16
+Jennifer Smith,Cardiothoracic Surgeon,"$1,311 ",71-381294,Zahle,10,Female,General Hospital,jennifer.smith@gmail.com,10
+Jeffery Rocha,Cardiothoracic Surgeon,"$1,044 ",71-359258,Nabatieh,8,Male,Al Najda,jeffery.rocha@gmail.com,17
+Jacob Clayton,Urologic Surgeon,$385 ,76-485754,Aley,2,Male,Aley Medical Center,jacob.clayton@gmail.com,24
+Natasha King,General Surgeon,$741 ,76-217939,Jounieh,3,Female,General Hospital,natasha.king@gmail.com,3
+Amy Mcneil,General Surgeon,"$1,285 ",71-698092,Tyre,9,Female,General Hospital,amy.mcneil@gmail.com,19
+Lori Nichols,Vascular Surgeon,"$1,348 ",76-494582,Zahle,2,Male,General Hospital,lori.nichols@gmail.com,22
+Todd Reed,Plastic Surgeon,$747 ,71-215480,Jounieh,4,Male,General Hospital,todd.reed@gmail.com,8
+Pamela Holloway,Urologic Surgeon,$848 ,81-688831,Jounieh,8,Female,General Hospital,pamela.holloway@gmail.com,12
+Michaela Copeland,Urologic Surgeon,"$1,448 ",76-614835,Nabatieh,2,Female,Hammoud Hospital,michaela.copeland@gmail.com,13
+Maria Andrews,Cardiothoracic Surgeon,"$1,077 ",81-705121,Nabatieh,0,Female,Hammoud Hospital,maria.andrews@gmail.com,33
+Erik Jackson,Vascular Surgeon,"$1,207 ",76-788479,Baalbek,10,Male,Dar El Amal,erik.jackson@gmail.com,29
+Matthew Moran,General Surgeon,"$1,246 ",76-189497,Nabatieh,10,Male,Al Najda,matthew.moran@gmail.com,1
+Lauren Molina,Orthopedic Surgeon,"$1,003 ",71-208920,Jounieh,6,Female,General Hospital,lauren.molina@gmail.com,16
+Vicki Smith,Oncologic Surgeon,"$1,025 ",76-549691,Tripoli,1,Female,General Hospital,vicki.smith@gmail.com,29
+Zachary Townsend,Urologic Surgeon,"$1,018 ",76-610982,Byblos,3,Male,Notre Dame de Secours,zachary.townsend@gmail.com,7
+Michael Lopez,Neurosurgeon,"$1,496 ",76-758291,Tripoli,3,Male,General Hospital,michael.lopez@gmail.com,34
+Joan Ramirez,Neurosurgeon,$427 ,81-305173,Jounieh,0,Male,General Hospital,joan.ramirez@gmail.com,25
+Andrew Morgan,Cardiothoracic Surgeon,"$1,432 ",71-171655,Tyre,4,Male,General Hospital,andrew.morgan@gmail.com,2
+Richard Williamson,Plastic Surgeon,$420 ,71-215196,Baalbek,10,Male,Al Zahraa,richard.williamson@gmail.com,34
+Todd Williams,Oncologic Surgeon,"$1,189 ",81-468922,Baalbek,0,Male,Dar El Amal,todd.williams@gmail.com,33
+Cindy Wilson,Oncologic Surgeon,$666 ,81-974784,Tripoli,2,Female,General Hospital,cindy.wilson@gmail.com,25
+Daniel Choi,Cardiothoracic Surgeon,"$1,495 ",71-699343,Nabatieh,10,Male,Hammoud Hospital,daniel.choi@gmail.com,11
+Renee Campbell,Plastic Surgeon,$725 ,81-239670,Beirut,4,Female,Najjar,renee.campbell@gmail.com,22
+Jason Serrano,Pediatric Surgeon,"$1,452 ",76-877131,Jounieh,0,Male,General Hospital,jason.serrano@gmail.com,23
+Melissa Obrien,Pediatric Surgeon,"$1,409 ",81-296910,Beirut,3,Female,CMC,melissa.obrien@gmail.com,30
+Suzanne Rodriguez,Orthopedic Surgeon,"$1,287 ",71-243461,Zahle,9,Female,General Hospital,suzanne.rodriguez@gmail.com,6
+Melissa Parker,Urologic Surgeon,$784 ,76-852585,Jounieh,9,Female,General Hospital,melissa.parker@gmail.com,19
+James Barnett,Orthopedic Surgeon,$818 ,81-103258,Byblos,1,Male,Notre Dame de Secours,james.barnett@gmail.com,5
+Michael Young,General Surgeon,$863 ,76-990150,Beirut,5,Male,Rafic Hariri,michael.young@gmail.com,13
+Kristi Martin,Pediatric Surgeon,"$1,335 ",81-242406,Aley,6,Female,Mount Lebanon,kristi.martin@gmail.com,8
+Jason Orr,Oncologic Surgeon,"$1,241 ",81-359494,Zahle,8,Male,General Hospital,jason.orr@gmail.com,34
+Vincent Holmes,Pediatric Surgeon,$483 ,81-473589,Beirut,3,Male,CMC,vincent.holmes@gmail.com,8
+Morgan Tran,Cardiothoracic Surgeon,$411 ,76-373912,Zahle,0,Male,General Hospital,morgan.tran@gmail.com,34
+Andrew Rivera,Plastic Surgeon,$808 ,76-380975,Baalbek,9,Male,Dar El Amal,andrew.rivera@gmail.com,21
+Julie Brown,General Surgeon,"$1,295 ",71-232039,Nabatieh,9,Female,Al Najda,julie.brown@gmail.com,17
+Roger Nelson,Plastic Surgeon,$344 ,71-110794,Jounieh,4,Male,General Hospital,roger.nelson@gmail.com,18
+Robert Williams,Urologic Surgeon,$336 ,76-691391,Jounieh,10,Male,General Hospital,robert.williams@gmail.com,30
+Brian Ho,Plastic Surgeon,$396 ,71-175789,Beirut,6,Male,AUBMC,brian.ho@gmail.com,6
+Karen Gomez,Cardiothoracic Surgeon,$799 ,81-384410,Beirut,6,Female,AUBMC,karen.gomez@gmail.com,22
+Michael Schmidt,Orthopedic Surgeon,$811 ,76-140566,Zahle,0,Male,General Hospital,michael.schmidt@gmail.com,32
+Michael Carey,General Surgeon,$775 ,81-576145,Baalbek,1,Male,Al Zahraa,michael.carey@gmail.com,3
+Joshua Franco,Neurosurgeon,"$1,299 ",81-709187,Baalbek,4,Male,Dar El Amal,joshua.franco@gmail.com,7
+Travis Lam,Vascular Surgeon,$318 ,81-316229,Sidon,5,Male,General Hospital,travis.lam@gmail.com,4
+Nancy Stone,Orthopedic Surgeon,"$1,232 ",71-371731,Tripoli,0,Female,General Hospital,nancy.stone@gmail.com,17
+Taylor Fisher,Orthopedic Surgeon,$609 ,76-371376,Nabatieh,7,Male,Al Najda,taylor.fisher@gmail.com,4
+Maria Stevenson,Orthopedic Surgeon,$724 ,81-773597,Baalbek,7,Female,Dar El Amal,maria.stevenson@gmail.com,8
+Mark Olsen,Vascular Surgeon,$321 ,71-580223,Beirut,9,Male,Najjar,mark.olsen@gmail.com,7
+Jordan Woods,General Surgeon,$635 ,71-343169,Aley,6,Male,Aley Medical Center,jordan.woods@gmail.com,20
+Nathan Simpson,Pediatric Surgeon,"$1,095 ",81-783963,Byblos,6,Male,Saint Georges,nathan.simpson@gmail.com,15
+David Lee,Orthopedic Surgeon,"$1,180 ",81-448022,Tyre,0,Male,General Hospital,david.lee@gmail.com,10
+Douglas Mooney,General Surgeon,$626 ,71-392551,Zahle,7,Male,General Hospital,douglas.mooney@gmail.com,31
+James Brown,General Surgeon,$345 ,76-333330,Byblos,10,Male,Saint Georges,james.brown@gmail.com,22
+Wanda Anderson,Vascular Surgeon,$556 ,71-209559,Tripoli,10,Female,General Hospital,wanda.anderson@gmail.com,21
+Gregory Williams,General Surgeon,$349 ,71-947706,Nabatieh,10,Male,Hammoud Hospital,gregory.williams@gmail.com,1
+Patrick Williams,Vascular Surgeon,$873 ,71-746927,Nabatieh,8,Male,Al Najda,patrick.williams@gmail.com,34
+Nancy Brown,Neurosurgeon,$896 ,81-667864,Jounieh,2,Female,General Hospital,nancy.brown@gmail.com,8
+Brad Cooper,Vascular Surgeon,$809 ,76-330462,Tyre,4,Male,General Hospital,brad.cooper@gmail.com,12
+Melinda Robertson,General Surgeon,$837 ,81-675741,Tyre,2,Female,General Hospital,melinda.robertson@gmail.com,35
+Dustin Bright,Cardiothoracic Surgeon,"$1,009 ",71-397234,Beirut,2,Male,CMC,dustin.bright@gmail.com,3
+Isaiah Roman,Plastic Surgeon,"$1,385 ",76-781535,Nabatieh,1,Male,Al Najda,isaiah.roman@gmail.com,31
+Rose Rogers,Oncologic Surgeon,"$1,324 ",71-307860,Tyre,5,Female,General Hospital,rose.rogers@gmail.com,5
+Julia Brown,General Surgeon,$534 ,76-529616,Baalbek,10,Female,Dar El Amal,julia.brown@gmail.com,24
+Patricia Rivas,Oncologic Surgeon,"$1,257 ",71-546361,Tripoli,3,Female,General Hospital,patricia.rivas@gmail.com,26
+Gregory Fleming,Cardiothoracic Surgeon,"$1,456 ",71-466011,Nabatieh,10,Male,Al Najda,gregory.fleming@gmail.com,17
+Teresa Smith,General Surgeon,$466 ,76-836662,Aley,7,Female,Mount Lebanon,teresa.smith@gmail.com,33
+Victoria Ford,Neurosurgeon,$703 ,71-439819,Tripoli,7,Female,General Hospital,victoria.ford@gmail.com,2
+Jasmine Bond,Urologic Surgeon,$597 ,81-659137,Baalbek,5,Female,Al Zahraa,jasmine.bond@gmail.com,22
+Wendy Taylor,Neurosurgeon,"$1,219 ",71-798983,Sidon,0,Female,General Hospital,wendy.taylor@gmail.com,1
+Brian Wagner,Vascular Surgeon,"$1,391 ",81-609172,Tyre,3,Male,General Hospital,brian.wagner@gmail.com,27
+Tina Schultz,Plastic Surgeon,"$1,207 ",76-997093,Byblos,6,Female,Saint Georges,tina.schultz@gmail.com,32
+Patricia Phillips,Pediatric Surgeon,$945 ,81-474556,Tripoli,2,Female,General Hospital,patricia.phillips@gmail.com,25
+Jillian Obrien,Urologic Surgeon,"$1,115 ",81-814076,Tripoli,0,Male,General Hospital,jillian.obrien@gmail.com,2
+Justin Stewart,Plastic Surgeon,"$1,402 ",71-693729,Nabatieh,5,Male,Hammoud Hospital,justin.stewart@gmail.com,13
+George Smith,Neurosurgeon,"$1,385 ",71-313684,Nabatieh,8,Male,Al Najda,george.smith@gmail.com,3
+Jessica Douglas,Oncologic Surgeon,"$1,043 ",81-524722,Sidon,8,Female,General Hospital,jessica.douglas@gmail.com,17
+Kayla Lynch,Vascular Surgeon,$943 ,81-563753,Baalbek,2,Female,Dar El Amal,kayla.lynch@gmail.com,26
+Timothy Whitney,Orthopedic Surgeon,$984 ,81-600737,Aley,3,Male,Aley Medical Center,timothy.whitney@gmail.com,28
+James Miller,Pediatric Surgeon,"$1,218 ",76-438390,Beirut,3,Male,Rafic Hariri,james.miller@gmail.com,5
+Elizabeth Lee,Orthopedic Surgeon,"$1,299 ",71-472978,Baalbek,10,Female,Al Zahraa,elizabeth.lee@gmail.com,27
+Michael Sims,Orthopedic Surgeon,$903 ,71-543370,Tyre,1,Male,General Hospital,michael.sims@gmail.com,13
+Christine Allen,Orthopedic Surgeon,$421 ,81-594599,Aley,10,Female,Mount Lebanon,christine.allen@gmail.com,9
+Michael King,Plastic Surgeon,"$1,475 ",81-712935,Beirut,10,Male,CMC,michael.king@gmail.com,2
+Tammy Garcia,Vascular Surgeon,$306 ,76-124945,Beirut,9,Female,Rafic Hariri,tammy.garcia@gmail.com,19
+Melissa Watson,Pediatric Surgeon,"$1,081 ",71-630957,Nabatieh,9,Female,Hammoud Hospital,melissa.watson@gmail.com,27
+Cody Olson,Neurosurgeon,"$1,336 ",76-267351,Nabatieh,7,Male,Al Najda,cody.olson@gmail.com,32
+Christopher Eaton,Oncologic Surgeon,$922 ,71-592383,Zahle,8,Male,General Hospital,christopher.eaton@gmail.com,10
+Dustin Russell,Plastic Surgeon,"$1,285 ",71-187490,Tyre,2,Male,General Hospital,dustin.russell@gmail.com,32
+Olivia Oneal,Neurosurgeon,"$1,248 ",81-860490,Tyre,5,Female,General Hospital,olivia.oneal@gmail.com,16
+Jodi Hill,General Surgeon,$484 ,71-470107,Zahle,4,Male,General Hospital,jodi.hill@gmail.com,24
+Michael Allen,Vascular Surgeon,$933 ,71-197704,Tripoli,0,Male,General Hospital,michael.allen@gmail.com,3
+Nichole Scott,Urologic Surgeon,$993 ,81-620961,Baalbek,4,Female,Dar El Amal,nichole.scott@gmail.com,24
+Emily Young,Cardiothoracic Surgeon,"$1,377 ",81-976459,Nabatieh,10,Female,Al Najda,emily.young@gmail.com,17
+Shawn Castillo,Cardiothoracic Surgeon,$921 ,76-741783,Aley,6,Male,Mount Lebanon,shawn.castillo@gmail.com,33
+Mike Gutierrez,Pediatric Surgeon,$439 ,71-992424,Jounieh,0,Male,General Hospital,mike.gutierrez@gmail.com,19
+Abigail Le,Pediatric Surgeon,"$1,180 ",76-305240,Byblos,6,Male,Saint Georges,abigail.le@gmail.com,15
+Chelsea Trujillo,Vascular Surgeon,$962 ,76-420860,Byblos,9,Male,Saint Georges,chelsea.trujillo@gmail.com,16
+Christopher Jackson,General Surgeon,"$1,101 ",81-229488,Zahle,5,Male,General Hospital,christopher.jackson@gmail.com,20
+Carol Vazquez,Vascular Surgeon,"$1,070 ",71-916945,Baalbek,9,Female,Al Zahraa,carol.vazquez@gmail.com,10
+Margaret Conner,Oncologic Surgeon,$548 ,76-185552,Nabatieh,4,Female,Al Najda,margaret.conner@gmail.com,17
+Corey Diaz,Vascular Surgeon,"$1,293 ",71-737219,Tyre,9,Male,General Hospital,corey.diaz@gmail.com,18
+Ryan Williams,Neurosurgeon,"$1,405 ",71-568141,Zahle,3,Male,General Hospital,ryan.williams@gmail.com,29
+James Shaw,Oncologic Surgeon,$315 ,71-704423,Baalbek,10,Male,Al Zahraa,james.shaw@gmail.com,28
+David Li,General Surgeon,$427 ,81-486277,Nabatieh,5,Male,Hammoud Hospital,david.li@gmail.com,26
+Tyler Simpson,Neurosurgeon,$604 ,76-358418,Jounieh,5,Male,General Hospital,tyler.simpson@gmail.com,6
+Anna Payne,Cardiothoracic Surgeon,$717 ,76-538119,Sidon,7,Female,General Hospital,anna.payne@gmail.com,25
+Nancy Rhodes,Pediatric Surgeon,$468 ,81-427863,Nabatieh,2,Female,Hammoud Hospital,nancy.rhodes@gmail.com,1
+Vincent Smith,Neurosurgeon,"$1,494 ",71-560729,Jounieh,9,Male,General Hospital,vincent.smith@gmail.com,16
+Jacob Young,Urologic Surgeon,$380 ,81-960481,Zahle,7,Male,General Hospital,jacob.young@gmail.com,9
+Lindsey Chavez,Urologic Surgeon,$791 ,76-151433,Sidon,8,Female,General Hospital,lindsey.chavez@gmail.com,11
+Matthew Martinez,Urologic Surgeon,"$1,067 ",71-725134,Sidon,1,Male,General Hospital,matthew.martinez@gmail.com,18
+Valerie Ruiz,Cardiothoracic Surgeon,$410 ,81-723606,Jounieh,4,Female,General Hospital,valerie.ruiz@gmail.com,17
+Brad Garza,Orthopedic Surgeon,"$1,118 ",71-430518,Nabatieh,9,Male,Hammoud Hospital,brad.garza@gmail.com,14
+Julia Martinez,Plastic Surgeon,"$1,241 ",76-113683,Baalbek,5,Female,Dar El Amal,julia.martinez@gmail.com,20
+Alyssa Johnson,General Surgeon,"$1,359 ",81-560251,Sidon,2,Female,General Hospital,alyssa.johnson@gmail.com,3
+Sophia Pollard,Orthopedic Surgeon,$908 ,76-528489,Zahle,5,Female,General Hospital,sophia.pollard@gmail.com,23
+Michael Walter,Oncologic Surgeon,$553 ,81-770553,Nabatieh,10,Male,Hammoud Hospital,michael.walter@gmail.com,35
+Michael Duffy,Orthopedic Surgeon,$668 ,71-403493,Beirut,10,Male,Najjar,michael.duffy@gmail.com,33
+Erin Taylor,Oncologic Surgeon,"$1,162 ",76-997861,Aley,3,Male,Aley Medical Center,erin.taylor@gmail.com,8
+Dennis Green,Urologic Surgeon,$914 ,76-563828,Byblos,1,Male,Saint Georges,dennis.green@gmail.com,14
+Stephen Lopez,Pediatric Surgeon,$869 ,76-405421,Sidon,8,Male,General Hospital,stephen.lopez@gmail.com,12
+Larry Davis,Plastic Surgeon,$438 ,76-687431,Zahle,9,Male,General Hospital,larry.davis@gmail.com,27
+Kathryn Valentine,Urologic Surgeon,$816 ,71-573254,Nabatieh,3,Male,Hammoud Hospital,kathryn.valentine@gmail.com,11
+Karen Copeland,Neurosurgeon,"$1,197 ",71-304226,Zahle,2,Female,General Hospital,karen.copeland@gmail.com,27
+Roberto Williams,Urologic Surgeon,"$1,008 ",71-768535,Byblos,0,Male,Saint Georges,roberto.williams@gmail.com,3
+Douglas Hawkins,Urologic Surgeon,$911 ,71-618455,Nabatieh,3,Male,Al Najda,douglas.hawkins@gmail.com,22
+Renee Lane,Cardiothoracic Surgeon,"$1,260 ",81-883953,Tripoli,9,Female,General Hospital,renee.lane@gmail.com,26
+Timothy Jones,Urologic Surgeon,$476 ,81-522428,Jounieh,1,Male,General Hospital,timothy.jones@gmail.com,1
+Samantha Peterson,Vascular Surgeon,$551 ,81-533308,Tyre,3,Female,General Hospital,samantha.peterson@gmail.com,13
+Lisa Callahan,Urologic Surgeon,"$1,283 ",81-861321,Jounieh,2,Female,General Hospital,lisa.callahan@gmail.com,15
+Kim Vaughn,Cardiothoracic Surgeon,"$1,308 ",76-360013,Beirut,10,Male,AUBMC,kim.vaughn@gmail.com,35
+William Sweeney,Urologic Surgeon,"$1,131 ",71-208266,Nabatieh,1,Male,Al Najda,william.sweeney@gmail.com,31
+Karl Green,Oncologic Surgeon,"$1,298 ",81-602159,Byblos,2,Male,Saint Georges,karl.green@gmail.com,11
+James Garrett,Cardiothoracic Surgeon,"$1,145 ",76-208600,Tripoli,8,Male,General Hospital,james.garrett@gmail.com,6
+Melissa Rodriguez,Vascular Surgeon,$825 ,81-675471,Aley,0,Female,Mount Lebanon,melissa.rodriguez@gmail.com,17
+Ryan Burgess,Plastic Surgeon,$798 ,76-497283,Baalbek,5,Male,Al Zahraa,ryan.burgess@gmail.com,23
+Joshua Harrison,Pediatric Surgeon,$361 ,81-361876,Nabatieh,10,Male,Hammoud Hospital,joshua.harrison@gmail.com,26
+Christopher Rhodes,General Surgeon,$693 ,81-785124,Zahle,4,Male,General Hospital,christopher.rhodes@gmail.com,35
+Richard Murray,Vascular Surgeon,$564 ,76-591573,Tripoli,3,Male,General Hospital,richard.murray@gmail.com,13
+Kevin Daniels,Urologic Surgeon,$886 ,76-278308,Aley,0,Male,Mount Lebanon,kevin.daniels@gmail.com,29
+Alison Adams,Pediatric Surgeon,"$1,452 ",81-996053,Beirut,1,Female,Najjar,alison.adams@gmail.com,4
+Phillip Mullins,General Surgeon,"$1,359 ",81-592974,Tyre,7,Male,General Hospital,phillip.mullins@gmail.com,17
+Rebecca Stevens,Neurosurgeon,"$1,225 ",81-871735,Beirut,3,Female,CMC,rebecca.stevens@gmail.com,19
+Dustin Edwards,Oncologic Surgeon,"$1,253 ",81-990317,Tripoli,10,Male,General Hospital,dustin.edwards@gmail.com,18
+Kristina Green,General Surgeon,"$1,306 ",76-416603,Nabatieh,7,Female,Al Najda,kristina.green@gmail.com,18
+Pamela Reese,General Surgeon,$808 ,81-465070,Beirut,3,Female,AUBMC,pamela.reese@gmail.com,31
+Paula White,Neurosurgeon,$939 ,71-319158,Nabatieh,4,Female,Al Najda,paula.white@gmail.com,27
+Sandra Whitaker,Vascular Surgeon,$977 ,76-521315,Baalbek,10,Female,Dar El Amal,sandra.whitaker@gmail.com,4
+Alicia Frank,Pediatric Surgeon,"$1,356 ",81-618625,Sidon,6,Female,General Hospital,alicia.frank@gmail.com,16
+Karen Bailey,General Surgeon,$803 ,76-174886,Baalbek,10,Female,Al Zahraa,karen.bailey@gmail.com,3
+Kenneth Williams,Urologic Surgeon,$885 ,81-524702,Aley,6,Male,Aley Medical Center,kenneth.williams@gmail.com,6
+Charles Johnson,Urologic Surgeon,"$1,201 ",81-909511,Tyre,5,Male,General Hospital,charles.johnson@gmail.com,27
+Lauren Williams,Cardiothoracic Surgeon,$330 ,81-629229,Zahle,9,Female,General Hospital,lauren.williams@gmail.com,25
+Autumn Navarro,Urologic Surgeon,$885 ,71-508240,Zahle,2,Male,General Hospital,autumn.navarro@gmail.com,24
+Elizabeth Spears,Pediatric Surgeon,$529 ,81-418576,Tripoli,0,Female,General Hospital,elizabeth.spears@gmail.com,5
+Manuel Martinez,Neurosurgeon,$995 ,76-369696,Byblos,6,Male,Notre Dame de Secours,manuel.martinez@gmail.com,18
+Sally Sandoval,Oncologic Surgeon,$545 ,81-345095,Zahle,9,Female,General Hospital,sally.sandoval@gmail.com,25
+Michelle Allen,Orthopedic Surgeon,$987 ,71-486144,Byblos,7,Female,Notre Dame de Secours,michelle.allen@gmail.com,9
+Barbara Newton,Oncologic Surgeon,"$1,015 ",76-220195,Jounieh,3,Female,General Hospital,barbara.newton@gmail.com,25
+Elizabeth Smith,Oncologic Surgeon,"$1,455 ",71-887777,Nabatieh,4,Female,Al Najda,elizabeth.smith@gmail.com,15
+Joseph Jones,Cardiothoracic Surgeon,"$1,485 ",81-607360,Tyre,3,Male,General Hospital,joseph.jones@gmail.com,17
+Bryan Sloan,Cardiothoracic Surgeon,$405 ,71-411952,Byblos,6,Male,Saint Georges,bryan.sloan@gmail.com,22
+Tabitha Petty,Pediatric Surgeon,$560 ,81-892695,Nabatieh,5,Female,Al Najda,tabitha.petty@gmail.com,19
+Jeffrey Anderson,Plastic Surgeon,$613 ,76-900395,Aley,1,Male,Aley Medical Center,jeffrey.anderson@gmail.com,32
+Faith Love,Urologic Surgeon,$813 ,81-837953,Sidon,4,Female,General Hospital,faith.love@gmail.com,12
+Lori Daniel,Vascular Surgeon,"$1,418 ",71-934366,Beirut,7,Female,Rafic Hariri,lori.daniel@gmail.com,26
+Jason Riley,Oncologic Surgeon,$861 ,71-320468,Tyre,0,Male,General Hospital,jason.riley@gmail.com,1
+Caleb Haney,Vascular Surgeon,$614 ,71-808261,Tyre,6,Male,General Hospital,caleb.haney@gmail.com,30
+Sarah Kelley,Plastic Surgeon,$589 ,81-863630,Jounieh,4,Female,General Hospital,sarah.kelley@gmail.com,19
+Lisa Brock,General Surgeon,"$1,226 ",71-619980,Byblos,3,Female,Notre Dame de Secours,lisa.brock@gmail.com,29
+Andres Ramos,General Surgeon,"$1,139 ",71-747401,Beirut,3,Male,Rafic Hariri,andres.ramos@gmail.com,15
+Nicole Bentley,General Surgeon,$866 ,71-727293,Aley,3,Male,Aley Medical Center,nicole.bentley@gmail.com,29
+Eric Nelson,Oncologic Surgeon,$418 ,76-783101,Nabatieh,2,Male,Hammoud Hospital,eric.nelson@gmail.com,25
+Anita Rodriguez,Cardiothoracic Surgeon,"$1,151 ",76-661910,Zahle,1,Female,General Hospital,anita.rodriguez@gmail.com,8
+Molly Pratt,Oncologic Surgeon,$540 ,71-342184,Tyre,1,Female,General Hospital,molly.pratt@gmail.com,6
+Jerry Jackson,Orthopedic Surgeon,$481 ,76-225011,Tyre,6,Male,General Hospital,jerry.jackson@gmail.com,21
+Dennis Sanchez,Vascular Surgeon,$470 ,76-382667,Sidon,6,Male,General Hospital,dennis.sanchez@gmail.com,14
+Amber Chavez,Plastic Surgeon,"$1,018 ",71-887059,Zahle,8,Female,General Hospital,amber.chavez@gmail.com,8
+Larry Bailey,Cardiothoracic Surgeon,$968 ,71-877954,Aley,5,Male,Mount Lebanon,larry.bailey@gmail.com,19
+Susan Schroeder,Pediatric Surgeon,$338 ,71-500742,Beirut,4,Female,AUBMC,susan.schroeder@gmail.com,12
+Daniel Bowers,Plastic Surgeon,$937 ,81-265027,Tyre,3,Male,General Hospital,daniel.bowers@gmail.com,12
+Kristy Morris,Pediatric Surgeon,"$1,219 ",81-642871,Aley,7,Female,Mount Lebanon,kristy.morris@gmail.com,30
+David Gray,Urologic Surgeon,$365 ,71-414506,Jounieh,10,Male,General Hospital,david.gray@gmail.com,34
+Brenda Clark,Plastic Surgeon,"$1,356 ",81-288549,Beirut,4,Female,AUBMC,brenda.clark@gmail.com,31
+Hannah Hood,Pediatric Surgeon,$343 ,76-856796,Baalbek,10,Female,Dar El Amal,hannah.hood@gmail.com,9
+Charles Ramirez,Pediatric Surgeon,$823 ,76-852747,Tripoli,5,Male,General Hospital,charles.ramirez@gmail.com,10
+Janet Hart,Urologic Surgeon,"$1,369 ",76-110517,Byblos,8,Female,Notre Dame de Secours,janet.hart@gmail.com,14
+Sandra Bass,Oncologic Surgeon,"$1,317 ",76-429436,Nabatieh,4,Female,Al Najda,sandra.bass@gmail.com,27
+Cindy Mueller,Cardiothoracic Surgeon,"$1,459 ",81-272839,Aley,10,Female,Mount Lebanon,cindy.mueller@gmail.com,33
+Mikayla Tucker,General Surgeon,$567 ,71-128495,Tripoli,9,Female,General Hospital,mikayla.tucker@gmail.com,29
+William Parrish,Pediatric Surgeon,"$1,345 ",76-530454,Tyre,8,Male,General Hospital,william.parrish@gmail.com,17
+Kaitlyn Marquez,General Surgeon,$301 ,71-778899,Tripoli,2,Female,General Hospital,kaitlyn.marquez@gmail.com,17
+Alfred Cantu,General Surgeon,"$1,141 ",71-735122,Baalbek,1,Male,Dar El Amal,alfred.cantu@gmail.com,8
+Victoria Chapman,Cardiothoracic Surgeon,"$1,377 ",76-179306,Aley,9,Female,Mount Lebanon,victoria.chapman@gmail.com,22
+Hannah Wilson,Plastic Surgeon,"$1,258 ",71-278487,Jounieh,8,Female,General Hospital,hannah.wilson@gmail.com,5
+Jonathan Glover,Neurosurgeon,$850 ,76-609729,Baalbek,7,Male,Al Zahraa,jonathan.glover@gmail.com,12
+Timothy Taylor,Oncologic Surgeon,$992 ,76-907028,Tyre,8,Male,General Hospital,timothy.taylor@gmail.com,18
+Ashley Stanton,Orthopedic Surgeon,$593 ,71-465574,Aley,8,Female,Mount Lebanon,ashley.stanton@gmail.com,1
+Derek Williamson,Orthopedic Surgeon,$726 ,81-601185,Baalbek,4,Male,Al Zahraa,derek.williamson@gmail.com,10
+Kayla Turner,Pediatric Surgeon,$930 ,81-385155,Byblos,0,Female,Saint Georges,kayla.turner@gmail.com,26
+Billy Luna,Cardiothoracic Surgeon,$986 ,76-485784,Tyre,4,Male,General Hospital,billy.luna@gmail.com,1
+Dawn Manning,Plastic Surgeon,$868 ,81-943527,Byblos,6,Male,Saint Georges,dawn.manning@gmail.com,13
+April Roberts,Orthopedic Surgeon,"$1,248 ",81-567426,Baalbek,1,Male,Al Zahraa,april.roberts@gmail.com,20
+Kathryn Wells,Neurosurgeon,$320 ,76-762742,Jounieh,8,Female,General Hospital,kathryn.wells@gmail.com,28
+Shelby Carter,Pediatric Surgeon,"$1,202 ",76-530280,Jounieh,2,Male,General Hospital,shelby.carter@gmail.com,32
+Sandra Wright,Urologic Surgeon,"$1,001 ",76-231213,Beirut,5,Female,Rafic Hariri,sandra.wright@gmail.com,3
+Amanda Hall,Plastic Surgeon,$381 ,81-868880,Jounieh,8,Female,General Hospital,amanda.hall@gmail.com,7
+Holly Garrett,Urologic Surgeon,$508 ,81-359048,Zahle,2,Female,General Hospital,holly.garrett@gmail.com,25
+John Villanueva,Urologic Surgeon,$726 ,76-728984,Tyre,0,Male,General Hospital,john.villanueva@gmail.com,5
+William Weber,Oncologic Surgeon,$802 ,76-938137,Zahle,9,Male,General Hospital,william.weber@gmail.com,25
+Priscilla Anderson,General Surgeon,$495 ,81-477757,Nabatieh,2,Female,Al Najda,priscilla.anderson@gmail.com,34
+Linda Bowman,Pediatric Surgeon,$824 ,76-782941,Zahle,5,Female,General Hospital,linda.bowman@gmail.com,31
+Courtney Jenkins,Orthopedic Surgeon,$781 ,71-445078,Baalbek,3,Female,Dar El Amal,courtney.jenkins@gmail.com,7
+Cynthia Maxwell,General Surgeon,"$1,489 ",76-338546,Baalbek,9,Female,Al Zahraa,cynthia.maxwell@gmail.com,23
+Jonathan Griffin,Plastic Surgeon,$521 ,81-833782,Tyre,10,Male,General Hospital,jonathan.griffin@gmail.com,18
+Jennifer Baldwin,Oncologic Surgeon,$472 ,71-430674,Jounieh,7,Female,General Hospital,jennifer.baldwin@gmail.com,15
+Bradley Watson,Orthopedic Surgeon,"$1,182 ",81-771280,Jounieh,0,Male,General Hospital,bradley.watson@gmail.com,32
+Felicia Miranda,Plastic Surgeon,$802 ,71-921780,Beirut,6,Female,CMC,felicia.miranda@gmail.com,17
+Amanda Maxwell,Oncologic Surgeon,$987 ,71-306871,Baalbek,6,Female,Dar El Amal,amanda.maxwell@gmail.com,35
+Cristian Galvan,Neurosurgeon,"$1,061 ",81-979426,Beirut,1,Male,CMC,cristian.galvan@gmail.com,30
+Benjamin Mitchell,Vascular Surgeon,$986 ,71-141099,Zahle,0,Male,General Hospital,benjamin.mitchell@gmail.com,25
+Jacob Stewart,Plastic Surgeon,"$1,265 ",76-581356,Aley,5,Male,Aley Medical Center,jacob.stewart@gmail.com,2
+Debra Wood,General Surgeon,"$1,141 ",81-709859,Jounieh,3,Female,General Hospital,debra.wood@gmail.com,6
+Steven Hernandez,Oncologic Surgeon,$837 ,76-995439,Beirut,8,Male,CMC,steven.hernandez@gmail.com,16
+Bobby Salinas,Urologic Surgeon,"$1,469 ",76-200326,Baalbek,9,Male,Al Zahraa,bobby.salinas@gmail.com,27
+Amy Johnson,Cardiothoracic Surgeon,$935 ,71-218499,Sidon,8,Female,General Hospital,amy.johnson@gmail.com,4
+Isaiah Nichols,Plastic Surgeon,"$1,175 ",71-463364,Tripoli,8,Male,General Hospital,isaiah.nichols@gmail.com,25
+Devin Greene,Cardiothoracic Surgeon,$384 ,76-178962,Jounieh,10,Male,General Hospital,devin.greene@gmail.com,1
+Christina Harrison,Orthopedic Surgeon,"$1,022 ",71-279778,Byblos,7,Female,Saint Georges,christina.harrison@gmail.com,19
+Robert Armstrong,Plastic Surgeon,"$1,193 ",71-490761,Baalbek,1,Male,Al Zahraa,robert.armstrong@gmail.com,9
+Samantha Hendrix,Orthopedic Surgeon,$561 ,81-333667,Tyre,2,Female,General Hospital,samantha.hendrix@gmail.com,27
+Joseph Moon,Vascular Surgeon,"$1,327 ",81-289868,Zahle,2,Male,General Hospital,joseph.moon@gmail.com,19
+Leslie Collins,Cardiothoracic Surgeon,$395 ,71-575056,Byblos,1,Female,Saint Georges,leslie.collins@gmail.com,4
+Leslie Farrell,Neurosurgeon,$530 ,71-893244,Tyre,0,Female,General Hospital,leslie.farrell@gmail.com,12
+Annette Johnson,Orthopedic Surgeon,"$1,266 ",81-884510,Jounieh,4,Female,General Hospital,annette.johnson@gmail.com,17
+Patrick Daniel,General Surgeon,$524 ,71-933955,Tyre,7,Male,General Hospital,patrick.daniel@gmail.com,13
+Jennifer Charles,Oncologic Surgeon,$524 ,81-719356,Aley,8,Female,Aley Medical Center,jennifer.charles@gmail.com,8
+Carla Johnson,Pediatric Surgeon,"$1,449 ",71-600085,Tripoli,3,Female,General Hospital,carla.johnson@gmail.com,4
+Alicia Walker,Orthopedic Surgeon,"$1,491 ",71-755839,Tyre,4,Female,General Hospital,alicia.walker@gmail.com,32
+Elaine Adams,Urologic Surgeon,"$1,395 ",76-266322,Byblos,3,Female,Saint Georges,elaine.adams@gmail.com,2
+Joshua Walters,Urologic Surgeon,$928 ,81-383911,Jounieh,9,Male,General Hospital,joshua.walters@gmail.com,22
+Mitchell Carroll,Vascular Surgeon,"$1,421 ",81-858664,Tripoli,2,Male,General Hospital,mitchell.carroll@gmail.com,33
+Kara Murray,Oncologic Surgeon,$536 ,81-732024,Zahle,6,Female,General Hospital,kara.murray@gmail.com,4
+Rebecca Reed,Oncologic Surgeon,$850 ,76-754709,Aley,7,Female,Mount Lebanon,rebecca.reed@gmail.com,22
+Lisa Vazquez,Orthopedic Surgeon,"$1,333 ",81-845974,Beirut,9,Female,Najjar,lisa.vazquez@gmail.com,10
+Judy Diaz,Neurosurgeon,$585 ,71-265755,Zahle,10,Female,General Hospital,judy.diaz@gmail.com,4
+Charles Robinson,Pediatric Surgeon,"$1,223 ",71-350946,Aley,4,Male,Mount Lebanon,charles.robinson@gmail.com,24
+Michael Murphy,Plastic Surgeon,"$1,219 ",81-215287,Tyre,10,Male,General Hospital,michael.murphy@gmail.com,19
+Monica Bishop,Plastic Surgeon,$361 ,71-278425,Baalbek,10,Female,Dar El Amal,monica.bishop@gmail.com,2
+Sharon Newton,Vascular Surgeon,$898 ,71-884114,Tripoli,8,Male,General Hospital,sharon.newton@gmail.com,23
+Edward Blackwell,Urologic Surgeon,$792 ,76-952479,Byblos,6,Male,Notre Dame de Secours,edward.blackwell@gmail.com,32
+Chad Rowe,Vascular Surgeon,$489 ,71-964821,Byblos,7,Male,Notre Dame de Secours,chad.rowe@gmail.com,6
+Christine Patel,General Surgeon,$490 ,76-764559,Tyre,0,Female,General Hospital,christine.patel@gmail.com,14
+Brenda Patel,Orthopedic Surgeon,$921 ,81-814829,Jounieh,4,Female,General Hospital,brenda.patel@gmail.com,16
+Richard Jones,Plastic Surgeon,$317 ,81-290411,Beirut,0,Male,Najjar,richard.jones@gmail.com,19
+Brooke Erickson,General Surgeon,"$1,321 ",81-355337,Byblos,3,Female,Saint Georges,brooke.erickson@gmail.com,21
+Renee Simmons,Neurosurgeon,"$1,119 ",71-222766,Sidon,10,Female,General Hospital,renee.simmons@gmail.com,22
+Jamie Sims,Neurosurgeon,"$1,340 ",71-833557,Baalbek,6,Female,Dar El Amal,jamie.sims@gmail.com,12
+William Mccoy,Neurosurgeon,$886 ,71-635087,Beirut,9,Male,CMC,william.mccoy@gmail.com,16
+Maurice Brown,Plastic Surgeon,$888 ,76-965477,Baalbek,8,Male,Dar El Amal,maurice.brown@gmail.com,1
+Johnathan Mcdaniel,General Surgeon,"$1,008 ",81-856766,Zahle,3,Male,General Hospital,johnathan.mcdaniel@gmail.com,4
+Brent Butler,Pediatric Surgeon,$631 ,81-143992,Sidon,7,Male,General Hospital,brent.butler@gmail.com,23
+Cindy Ware,Pediatric Surgeon,$482 ,71-945924,Byblos,3,Female,Saint Georges,cindy.ware@gmail.com,24
+Brenda Smith,Pediatric Surgeon,$386 ,76-392061,Nabatieh,1,Female,Al Najda,brenda.smith@gmail.com,11
+Tyler Martin,General Surgeon,$579 ,81-991327,Beirut,1,Male,Najjar,tyler.martin@gmail.com,10
+Stephanie Thompson,Neurosurgeon,$613 ,71-932566,Nabatieh,5,Female,Hammoud Hospital,stephanie.thompson@gmail.com,27
+Michael Rogers,Vascular Surgeon,$662 ,76-918563,Aley,0,Male,Mount Lebanon,michael.rogers@gmail.com,30
+Megan Love,General Surgeon,$955 ,71-959147,Tyre,6,Female,General Hospital,megan.love@gmail.com,28
+Veronica Smith,Urologic Surgeon,$318 ,71-336375,Aley,10,Female,Aley Medical Center,veronica.smith@gmail.com,16
+Robert Kane,Plastic Surgeon,$355 ,81-203069,Nabatieh,2,Male,Hammoud Hospital,robert.kane@gmail.com,4
+Robert Ford,Vascular Surgeon,$304 ,81-271747,Tyre,7,Male,General Hospital,robert.ford@gmail.com,12
+Nathaniel Fritz,Pediatric Surgeon,"$1,056 ",76-650135,Tyre,6,Female,General Hospital,nathaniel.fritz@gmail.com,35
+Brian Long,Vascular Surgeon,$898 ,71-751337,Jounieh,10,Male,General Hospital,brian.long@gmail.com,34
+Leslie Conrad,Pediatric Surgeon,$746 ,71-851306,Baalbek,7,Female,Dar El Amal,leslie.conrad@gmail.com,32
+Jonathan Davis,Neurosurgeon,"$1,473 ",71-201246,Sidon,7,Male,General Hospital,jonathan.davis@gmail.com,35
+Tanner Ferguson,Neurosurgeon,$712 ,76-818128,Byblos,10,Male,Notre Dame de Secours,tanner.ferguson@gmail.com,21
+Brent Rivera,Pediatric Surgeon,$747 ,76-354670,Zahle,6,Male,General Hospital,brent.rivera@gmail.com,19
+Nathan Singh,General Surgeon,$965 ,71-732113,Byblos,0,Male,Saint Georges,nathan.singh@gmail.com,5
+Jennifer Nelson,Pediatric Surgeon,"$1,317 ",71-180886,Sidon,1,Female,General Hospital,jennifer.nelson@gmail.com,10
+Bobby James,Neurosurgeon,"$1,403 ",81-614973,Jounieh,0,Male,General Hospital,bobby.james@gmail.com,2
+Leslie Matthews,Vascular Surgeon,$509 ,71-905742,Sidon,2,Female,General Hospital,leslie.matthews@gmail.com,27
+Claire Romero,General Surgeon,"$1,226 ",71-218076,Sidon,9,Female,General Hospital,claire.romero@gmail.com,16
+Michelle Wallace,Pediatric Surgeon,"$1,185 ",81-788483,Beirut,0,Male,Najjar,michelle.wallace@gmail.com,7
+Sheri Parker,Vascular Surgeon,"$1,418 ",71-416427,Beirut,9,Female,CMC,sheri.parker@gmail.com,5
+Jennifer Nelson,Cardiothoracic Surgeon,$780 ,71-403180,Nabatieh,8,Female,Hammoud Hospital,jennifer.nelson@gmail.com,10
+Jason Yoder,Orthopedic Surgeon,"$1,343 ",76-373234,Sidon,3,Male,General Hospital,jason.yoder@gmail.com,22
+Christopher Miller,Pediatric Surgeon,$575 ,81-291188,Tripoli,10,Male,General Hospital,christopher.miller@gmail.com,10
+Brandon Cruz,Vascular Surgeon,"$1,202 ",76-340884,Nabatieh,8,Male,Hammoud Hospital,brandon.cruz@gmail.com,23
+Dawn Carr,Cardiothoracic Surgeon,$310 ,71-285107,Sidon,10,Male,General Hospital,dawn.carr@gmail.com,12
+Kathleen Reese,General Surgeon,"$1,490 ",71-962579,Nabatieh,9,Female,Hammoud Hospital,kathleen.reese@gmail.com,14
+Debra Gonzalez,Vascular Surgeon,$398 ,81-135009,Aley,4,Female,Aley Medical Center,debra.gonzalez@gmail.com,8
+Angela Miller,Cardiothoracic Surgeon,"$1,390 ",76-374446,Jounieh,3,Female,General Hospital,angela.miller@gmail.com,7
+Janet Jones,Plastic Surgeon,"$1,197 ",71-628472,Beirut,2,Female,AUBMC,janet.jones@gmail.com,15
+David Tucker,Neurosurgeon,$538 ,81-585765,Aley,2,Male,Aley Medical Center,david.tucker@gmail.com,19
+James Petty,Pediatric Surgeon,"$1,483 ",76-750379,Tyre,0,Male,General Hospital,james.petty@gmail.com,29
+Shannon Hamilton,Vascular Surgeon,$495 ,81-981807,Beirut,9,Male,CMC,shannon.hamilton@gmail.com,6
+Daisy Mcmahon,Pediatric Surgeon,"$1,086 ",71-996524,Tyre,9,Female,General Hospital,daisy.mcmahon@gmail.com,20
+Melanie Miller,General Surgeon,$484 ,81-571407,Tripoli,2,Female,General Hospital,melanie.miller@gmail.com,22
+Lisa Nguyen,Pediatric Surgeon,"$1,304 ",71-367962,Baalbek,8,Female,Al Zahraa,lisa.nguyen@gmail.com,31
+Mary Jordan,General Surgeon,"$1,431 ",76-807475,Tyre,5,Female,General Hospital,mary.jordan@gmail.com,6
+Joshua Phillips,General Surgeon,"$1,359 ",81-429815,Nabatieh,0,Male,Hammoud Hospital,joshua.phillips@gmail.com,35
+Mary Velasquez,Orthopedic Surgeon,"$1,308 ",71-293228,Tyre,9,Female,General Hospital,mary.velasquez@gmail.com,28
+Michael Lam,Pediatric Surgeon,$916 ,81-413536,Aley,3,Male,Mount Lebanon,michael.lam@gmail.com,9
+Christina Garcia,Pediatric Surgeon,$977 ,71-395335,Zahle,7,Female,General Hospital,christina.garcia@gmail.com,23
+Benjamin Hubbard,Vascular Surgeon,$356 ,76-923302,Zahle,2,Male,General Hospital,benjamin.hubbard@gmail.com,29
+Bridget Luna,General Surgeon,$495 ,76-997991,Nabatieh,0,Female,Hammoud Hospital,bridget.luna@gmail.com,10
+Gina Phillips,Neurosurgeon,$712 ,76-787775,Tyre,9,Female,General Hospital,gina.phillips@gmail.com,21
+Donna Lee,Oncologic Surgeon,$845 ,81-111340,Tyre,3,Female,General Hospital,donna.lee@gmail.com,31
+Michelle Duran,Vascular Surgeon,$354 ,71-755118,Tripoli,10,Male,General Hospital,michelle.duran@gmail.com,19
+Karen Johnson,Oncologic Surgeon,$607 ,81-974249,Tripoli,3,Female,General Hospital,karen.johnson@gmail.com,25
+Catherine Collins,Neurosurgeon,$910 ,71-213453,Jounieh,8,Female,General Hospital,catherine.collins@gmail.com,33
+Michael Daniels,Urologic Surgeon,"$1,373 ",76-294075,Zahle,8,Male,General Hospital,michael.daniels@gmail.com,22
+Amber Roberts,General Surgeon,"$1,381 ",81-917674,Aley,10,Female,Mount Lebanon,amber.roberts@gmail.com,16
+Laura Meyer,Oncologic Surgeon,$340 ,76-721148,Tyre,6,Female,General Hospital,laura.meyer@gmail.com,18
+Gary Weeks,General Surgeon,$699 ,81-776127,Beirut,8,Male,Najjar,gary.weeks@gmail.com,35
+Robert Rodriguez,Urologic Surgeon,$669 ,81-842006,Aley,5,Male,Mount Lebanon,robert.rodriguez@gmail.com,21
+Matthew Werner,Pediatric Surgeon,$532 ,81-464221,Zahle,7,Male,General Hospital,matthew.werner@gmail.com,26
+Diane Hayes,Neurosurgeon,"$1,317 ",76-148396,Zahle,10,Female,General Hospital,diane.hayes@gmail.com,15
+Amanda Lloyd,Urologic Surgeon,"$1,492 ",76-534644,Byblos,10,Female,Saint Georges,amanda.lloyd@gmail.com,2
+Meredith Kelly,Pediatric Surgeon,"$1,249 ",76-377844,Tripoli,9,Female,General Hospital,meredith.kelly@gmail.com,7
+Sara Chase,Plastic Surgeon,"$1,429 ",71-779108,Sidon,7,Female,General Hospital,sara.chase@gmail.com,19
+Jonathan Alvarado,Oncologic Surgeon,"$1,014 ",81-941054,Nabatieh,10,Male,Al Najda,jonathan.alvarado@gmail.com,5
+Patrick Jones,Oncologic Surgeon,"$1,325 ",71-893026,Sidon,7,Male,General Hospital,patrick.jones@gmail.com,24
+Sandra Hernandez,Orthopedic Surgeon,"$1,113 ",81-182248,Sidon,3,Female,General Hospital,sandra.hernandez@gmail.com,12
+Erin Bailey,General Surgeon,$895 ,76-560017,Zahle,8,Male,General Hospital,erin.bailey@gmail.com,27
+Heather Miller,Urologic Surgeon,$401 ,76-885923,Beirut,1,Female,Najjar,heather.miller@gmail.com,29
+Erica Thomas,Oncologic Surgeon,"$1,179 ",71-496140,Tyre,5,Female,General Hospital,erica.thomas@gmail.com,29
+Taylor Gonzalez,Cardiothoracic Surgeon,$662 ,76-439951,Beirut,0,Male,AUBMC,taylor.gonzalez@gmail.com,32
+Scott Ortega,Oncologic Surgeon,"$1,035 ",81-594083,Beirut,10,Male,CMC,scott.ortega@gmail.com,9
+Mary Allen,Plastic Surgeon,"$1,281 ",76-212296,Zahle,9,v,General Hospital,mary.allen@gmail.com,31
+Becky Hanna,Neurosurgeon,$960 ,81-636112,Tyre,2,Female,General Hospital,becky.hanna@gmail.com,34
+Emily Vaughn,Cardiothoracic Surgeon,$434 ,76-158415,Tyre,1,Female,General Hospital,emily.vaughn@gmail.com,13
+Louis Mooney,Vascular Surgeon,"$1,355 ",71-201851,Baalbek,0,Male,Dar El Amal,louis.mooney@gmail.com,26
+Brett Edwards,Cardiothoracic Surgeon,$745 ,76-984402,Jounieh,3,Male,General Hospital,brett.edwards@gmail.com,18
+Kelsey George,General Surgeon,$890 ,76-428776,Baalbek,10,Female,Dar El Amal,kelsey.george@gmail.com,18
+Melissa Washington,Vascular Surgeon,$974 ,71-191305,Zahle,0,Female,General Hospital,melissa.washington@gmail.com,8
+Alice Meyer,Plastic Surgeon,$493 ,71-449776,Nabatieh,0,Female,Al Najda,alice.meyer@gmail.com,12
+Brooke Miller,Urologic Surgeon,$317 ,71-439366,Sidon,9,Male,General Hospital,brooke.miller@gmail.com,19
+Thomas Dominguez,Orthopedic Surgeon,"$1,351 ",81-930814,Sidon,4,Male,General Hospital,thomas.dominguez@gmail.com,33
+Jason Marquez,Vascular Surgeon,"$1,129 ",71-706291,Tripoli,5,Male,General Hospital,jason.marquez@gmail.com,18
+Diana Smith,General Surgeon,$924 ,71-209836,Byblos,4,Female,Notre Dame de Secours,diana.smith@gmail.com,23
+William Watson,General Surgeon,$350 ,76-280988,Zahle,1,Male,General Hospital,william.watson@gmail.com,14
+Kathleen James,Plastic Surgeon,$466 ,71-512710,Byblos,7,Female,Saint Georges,kathleen.james@gmail.com,8
+Jesse Underwood,Cardiothoracic Surgeon,$914 ,81-647227,Byblos,10,Male,Notre Dame de Secours,jesse.underwood@gmail.com,20
+Kristen Kelly,Cardiothoracic Surgeon,$850 ,81-109124,Beirut,6,Female,Rafic Hariri,kristen.kelly@gmail.com,29
+Daniel Thomas,Cardiothoracic Surgeon,$723 ,81-543650,Zahle,4,Male,General Hospital,daniel.thomas@gmail.com,8
+Cody Walsh,Cardiothoracic Surgeon,"$1,190 ",71-585026,Sidon,5,Male,General Hospital,cody.walsh@gmail.com,25
+Dana Davis,Neurosurgeon,$970 ,76-780120,Beirut,6,Female,Rafic Hariri,dana.davis@gmail.com,23
+Melody Castro,Cardiothoracic Surgeon,"$1,369 ",71-814457,Tripoli,4,Female,General Hospital,melody.castro@gmail.com,13
+Emily Forbes,Urologic Surgeon,$636 ,81-149916,Beirut,5,Female,Najjar,emily.forbes@gmail.com,7
+Luke Blanchard,Neurosurgeon,$760 ,71-366462,Tripoli,0,Male,General Hospital,luke.blanchard@gmail.com,34
+Anna Morrison,Urologic Surgeon,$728 ,81-105525,Tyre,7,Female,General Hospital,anna.morrison@gmail.com,32
+Christopher Moore,Plastic Surgeon,$585 ,81-613314,Sidon,5,Male,General Hospital,christopher.moore@gmail.com,8
+Katie Anderson,Plastic Surgeon,$975 ,81-421909,Sidon,0,Female,General Hospital,katie.anderson@gmail.com,31
+Joanna Austin,Pediatric Surgeon,$893 ,81-541741,Tripoli,0,Female,General Hospital,joanna.austin@gmail.com,9
+Katie Stanley,General Surgeon,"$1,375 ",81-306647,Tyre,5,Female,General Hospital,katie.stanley@gmail.com,15
+Diana Wright,General Surgeon,$626 ,71-954683,Tyre,7,Female,General Hospital,diana.wright@gmail.com,24
+Richard Sanchez,General Surgeon,$313 ,71-126057,Sidon,6,Male,General Hospital,richard.sanchez@gmail.com,21
+Erik Robinson,General Surgeon,"$1,047 ",81-481435,Aley,3,Male,Mount Lebanon,erik.robinson@gmail.com,12
+Carolyn Smith,Pediatric Surgeon,$615 ,81-239554,Jounieh,2,Female,General Hospital,carolyn.smith@gmail.com,29
+Miranda Scott,Orthopedic Surgeon,"$1,466 ",76-613720,Beirut,6,Female,AUBMC,miranda.scott@gmail.com,8
+Shannon Butler,Orthopedic Surgeon,$597 ,71-532002,Nabatieh,6,Male,Hammoud Hospital,shannon.butler@gmail.com,32
+Laura Shaffer,Oncologic Surgeon,$346 ,76-652804,Jounieh,6,Female,General Hospital,laura.shaffer@gmail.com,10
+Marvin Frost,Vascular Surgeon,"$1,210 ",81-357000,Aley,3,Male,Mount Lebanon,marvin.frost@gmail.com,7
+Angela Gomez,Vascular Surgeon,$903 ,71-298566,Tyre,4,Female,General Hospital,angela.gomez@gmail.com,16
+Jennifer Lane,General Surgeon,"$1,383 ",71-296438,Jounieh,5,Female,General Hospital,jennifer.lane@gmail.com,27
+Brian Brown,Cardiothoracic Surgeon,$602 ,81-869240,Beirut,0,Male,AUBMC,brian.brown@gmail.com,32
+Donna Mcgee,Pediatric Surgeon,"$1,442 ",81-423880,Tyre,7,Female,General Hospital,donna.mcgee@gmail.com,18
+James Hunt,Orthopedic Surgeon,$367 ,71-928851,Beirut,1,Male,Rafic Hariri,james.hunt@gmail.com,9
+Bryan Nelson,Plastic Surgeon,"$1,028 ",76-946037,Nabatieh,6,Male,Al Najda,bryan.nelson@gmail.com,22
+Laura Moody,General Surgeon,"$1,297 ",81-674874,Tyre,4,Female,General Hospital,laura.moody@gmail.com,31
+Jessica Morton,Vascular Surgeon,"$1,314 ",76-530919,Beirut,8,Female,Rafic Hariri,jessica.morton@gmail.com,33
+Katherine Douglas,Orthopedic Surgeon,"$1,337 ",81-765690,Tripoli,0,Female,General Hospital,katherine.douglas@gmail.com,24
+Mary Carpenter,Orthopedic Surgeon,$373 ,76-533024,Aley,6,Female,Mount Lebanon,mary.carpenter@gmail.com,11
+Jeanette Reed,Orthopedic Surgeon,"$1,485 ",81-762129,Byblos,1,Female,Notre Dame de Secours,jeanette.reed@gmail.com,29
+Tiffany Martinez,Plastic Surgeon,"$1,455 ",81-551835,Zahle,7,Female,General Hospital,tiffany.martinez@gmail.com,5
+Michael Clarke,Vascular Surgeon,"$1,358 ",71-761710,Baalbek,5,Male,Al Zahraa,michael.clarke@gmail.com,4
+Rachel Parker,Orthopedic Surgeon,"$1,198 ",81-254828,Sidon,0,Female,General Hospital,rachel.parker@gmail.com,33
+Maurice Lewis,Urologic Surgeon,$455 ,81-509931,Byblos,4,Male,Notre Dame de Secours,maurice.lewis@gmail.com,17
+Anna Figueroa,General Surgeon,$640 ,76-467902,Tyre,5,Female,General Hospital,anna.figueroa@gmail.com,3
+David Mayo,Oncologic Surgeon,$933 ,71-186985,Tyre,4,Male,General Hospital,david.mayo@gmail.com,19
+Jessica Gould,General Surgeon,"$1,083 ",71-994109,Jounieh,0,Female,General Hospital,jessica.gould@gmail.com,10
+Ronald Parrish,Urologic Surgeon,"$1,009 ",71-227873,Byblos,3,Male,Saint Georges,ronald.parrish@gmail.com,8
+Jeffrey Marsh,Plastic Surgeon,$552 ,76-817248,Aley,0,Male,Aley Medical Center,jeffrey.marsh@gmail.com,28
+Steven Mitchell,Plastic Surgeon,"$1,136 ",71-751843,Aley,10,Male,Aley Medical Center,steven.mitchell@gmail.com,13
+Cynthia Rios,Pediatric Surgeon,$555 ,76-232700,Byblos,5,Female,Saint Georges,cynthia.rios@gmail.com,7
+Elizabeth Dixon,Plastic Surgeon,"$1,320 ",76-890180,Zahle,5,Female,General Hospital,elizabeth.dixon@gmail.com,26
+Wendy Pierce,Vascular Surgeon,"$1,230 ",71-343462,Nabatieh,7,Female,Hammoud Hospital,wendy.pierce@gmail.com,23
+Christina Turner,Pediatric Surgeon,$364 ,71-466504,Tripoli,1,Female,General Hospital,christina.turner@gmail.com,16
+Gary Colon,Urologic Surgeon,"$1,149 ",76-319714,Beirut,2,Male,CMC,gary.colon@gmail.com,24
+James Burns,Orthopedic Surgeon,"$1,356 ",76-567625,Aley,7,Male,Mount Lebanon,james.burns@gmail.com,17
+Michael Jefferson,Oncologic Surgeon,"$1,279 ",81-382440,Zahle,7,Male,General Hospital,michael.jefferson@gmail.com,16
+Michael George,Plastic Surgeon,$826 ,76-724333,Nabatieh,8,Male,Hammoud Hospital,michael.george@gmail.com,8
+Kim Ortega,Urologic Surgeon,"$1,228 ",76-277765,Zahle,9,Female,General Hospital,kim.ortega@gmail.com,10
+Emma Baldwin,Oncologic Surgeon,$488 ,76-130801,Baalbek,4,Female,Al Zahraa,emma.baldwin@gmail.com,23
+Jonathan Black,Cardiothoracic Surgeon,"$1,006 ",81-474746,Nabatieh,1,Male,Hammoud Hospital,jonathan.black@gmail.com,27
+Ryan Abbott,Plastic Surgeon,$302 ,71-798893,Tripoli,3,Male,General Hospital,ryan.abbott@gmail.com,16
+Robin Garcia,Urologic Surgeon,"$1,435 ",76-666982,Sidon,3,Male,General Hospital,robin.garcia@gmail.com,11
+Julia Sandoval,Neurosurgeon,$337 ,71-713282,Sidon,9,Female,General Hospital,julia.sandoval@gmail.com,11
+Malik Quinn,Urologic Surgeon,"$1,110 ",81-148953,Sidon,10,Male,General Hospital,malik.quinn@gmail.com,5
+Gina Black,Orthopedic Surgeon,"$1,353 ",71-842620,Beirut,9,Female,Rafic Hariri,gina.black@gmail.com,25
+Deborah Watson,Orthopedic Surgeon,$954 ,81-307541,Jounieh,10,Female,General Hospital,deborah.watson@gmail.com,34
+Melissa Sanchez,Pediatric Surgeon,"$1,283 ",71-498833,Tripoli,7,Female,General Hospital,melissa.sanchez@gmail.com,35
+Wayne Thomas,Orthopedic Surgeon,$907 ,76-244569,Baalbek,8,Male,Dar El Amal,wayne.thomas@gmail.com,25
+Joseph Hammond,Oncologic Surgeon,"$1,458 ",71-998693,Baalbek,2,Male,Al Zahraa,joseph.hammond@gmail.com,15
+Brian Thomas,Neurosurgeon,$434 ,76-290570,Sidon,8,Male,General Hospital,brian.thomas@gmail.com,8
+Jenna Dudley,General Surgeon,$421 ,81-418676,Tripoli,10,Female,General Hospital,jenna.dudley@gmail.com,20
+Michael Skinner,Neurosurgeon,"$1,028 ",71-601474,Aley,7,Male,Mount Lebanon,michael.skinner@gmail.com,18
+Katie Williams,Vascular Surgeon,$456 ,71-145108,Jounieh,9,Female,General Hospital,katie.williams@gmail.com,27
+Veronica Berger,General Surgeon,$639 ,76-147879,Aley,2,Female,Aley Medical Center,veronica.berger@gmail.com,12
+Joseph Hall,Vascular Surgeon,$326 ,76-822218,Jounieh,2,Male,General Hospital,joseph.hall@gmail.com,31
+Sara White,Cardiothoracic Surgeon,$841 ,76-519908,Tyre,10,Female,General Hospital,sara.white@gmail.com,21
+Linda Day,Urologic Surgeon,"$1,422 ",81-647945,Byblos,7,Female,Notre Dame de Secours,linda.day@gmail.com,30
+Timothy Andrews,General Surgeon,"$1,415 ",76-267385,Zahle,4,Male,General Hospital,timothy.andrews@gmail.com,25
+Gregory Simpson,Vascular Surgeon,$303 ,76-529014,Sidon,2,Male,General Hospital,gregory.simpson@gmail.com,3
+Tracy Nash,Vascular Surgeon,$468 ,76-839725,Tripoli,6,Female,General Hospital,tracy.nash@gmail.com,28
+Rebecca Barnes,Pediatric Surgeon,$850 ,81-634516,Zahle,2,Female,General Hospital,rebecca.barnes@gmail.com,33
+Eric Norris,General Surgeon,"$1,380 ",81-204919,Nabatieh,3,Male,Al Najda,eric.norris@gmail.com,31
+Kyle Castaneda,Neurosurgeon,"$1,292 ",81-309544,Jounieh,1,Male,General Hospital,kyle.castaneda@gmail.com,9
+Julia Perry,Orthopedic Surgeon,$590 ,81-658805,Jounieh,1,Female,General Hospital,julia.perry@gmail.com,16
+Justin Brown,Urologic Surgeon,$454 ,81-210434,Zahle,2,Male,General Hospital,justin.brown@gmail.com,20
+Brenda Harris,Oncologic Surgeon,"$1,015 ",71-591174,Beirut,8,Female,CMC,brenda.harris@gmail.com,10
+Matthew Barrera,Oncologic Surgeon,$911 ,81-656841,Sidon,8,Male,General Hospital,matthew.barrera@gmail.com,13
+Jeffrey Hill,Orthopedic Surgeon,"$1,312 ",81-948656,Aley,9,Male,Aley Medical Center,jeffrey.hill@gmail.com,28
+Margaret Hawkins,General Surgeon,$555 ,81-946435,Tripoli,8,Female,General Hospital,margaret.hawkins@gmail.com,4
+Chase Smith,Orthopedic Surgeon,$425 ,71-675637,Tripoli,6,Male,General Hospital,chase.smith@gmail.com,22
+Ashley Olson,Vascular Surgeon,$614 ,71-716087,Nabatieh,8,Female,Al Najda,ashley.olson@gmail.com,32
+Noah Vincent,Cardiothoracic Surgeon,$587 ,71-126882,Baalbek,0,Male,Dar El Amal,noah.vincent@gmail.com,3
+Sarah Wilson,Neurosurgeon,"$1,270 ",71-847413,Baalbek,4,Female,Dar El Amal,sarah.wilson@gmail.com,19
+James Carroll,General Surgeon,$858 ,71-808475,Sidon,4,Male,General Hospital,james.carroll@gmail.com,30
+Mark Crawford,Orthopedic Surgeon,"$1,137 ",81-786963,Nabatieh,0,Male,Al Najda,mark.crawford@gmail.com,35
+Erin Dillon,Cardiothoracic Surgeon,"$1,496 ",71-254664,Tripoli,3,Male,General Hospital,erin.dillon@gmail.com,34
+Jamie Hudson,Urologic Surgeon,$812 ,81-568280,Beirut,1,Female,CMC,jamie.hudson@gmail.com,17
+Jeremy Gentry,Neurosurgeon,"$1,121 ",81-805507,Baalbek,4,Male,Al Zahraa,jeremy.gentry@gmail.com,29
+Gregg Carrillo,Plastic Surgeon,$660 ,71-956667,Tyre,2,Male,General Hospital,gregg.carrillo@gmail.com,35
+Miranda Williams,Cardiothoracic Surgeon,$362 ,81-877852,Tyre,2,Female,General Hospital,miranda.williams@gmail.com,32
+Catherine Pineda,Vascular Surgeon,$955 ,71-846478,Nabatieh,1,Female,Al Najda,catherine.pineda@gmail.com,15
+Rhonda Daniel,General Surgeon,"$1,493 ",71-696280,Zahle,9,Female,General Hospital,rhonda.daniel@gmail.com,29
+Ashley Ramsey,Oncologic Surgeon,$553 ,76-271140,Sidon,1,Female,General Hospital,ashley.ramsey@gmail.com,16
+Jeremy Beck,Cardiothoracic Surgeon,$825 ,76-659603,Tyre,4,Male,General Hospital,jeremy.beck@gmail.com,12
+Robert Wade,Vascular Surgeon,"$1,290 ",71-555360,Beirut,0,Male,Rafic Hariri,robert.wade@gmail.com,14
+Sydney Foster,Oncologic Surgeon,"$1,280 ",76-701062,Tripoli,8,Female,General Hospital,sydney.foster@gmail.com,3
+Louis Rivera,Neurosurgeon,$338 ,81-470080,Beirut,2,Male,Rafic Hariri,louis.rivera@gmail.com,26
+Anthony Wright,Pediatric Surgeon,"$1,348 ",81-636999,Jounieh,0,Male,General Hospital,anthony.wright@gmail.com,24
+Kevin Huynh,General Surgeon,$700 ,71-374135,Beirut,4,Male,CMC,kevin.huynh@gmail.com,34
+Wendy Schmidt,Urologic Surgeon,$306 ,76-623693,Nabatieh,6,Female,Hammoud Hospital,wendy.schmidt@gmail.com,23
+Frederick Meadows,Plastic Surgeon,"$1,428 ",81-439508,Tripoli,9,Male,General Hospital,frederick.meadows@gmail.com,1
+Charles Harmon,Neurosurgeon,$714 ,71-541359,Tripoli,4,Male,General Hospital,charles.harmon@gmail.com,12
+Leah Hall,Vascular Surgeon,$677 ,71-500863,Tyre,5,Female,General Hospital,leah.hall@gmail.com,34
+Alicia Peters,Plastic Surgeon,$477 ,76-104664,Jounieh,5,Female,General Hospital,alicia.peters@gmail.com,32
+Brandon Long,Urologic Surgeon,"$1,148 ",81-322966,Sidon,1,Male,General Hospital,brandon.long@gmail.com,5
+Julie Daugherty,Neurosurgeon,$687 ,71-691347,Beirut,5,Female,Najjar,julie.daugherty@gmail.com,34
+Kevin Davis,General Surgeon,$972 ,76-464011,Zahle,9,Male,General Hospital,kevin.davis@gmail.com,2
+Cheryl Williams,General Surgeon,$696 ,76-678656,Byblos,7,Female,Notre Dame de Secours,cheryl.williams@gmail.com,14
+Nathan Hanson,Pediatric Surgeon,$719 ,81-941521,Tyre,2,Male,General Hospital,nathan.hanson@gmail.com,12
+Taylor Castaneda,Neurosurgeon,$497 ,81-573134,Jounieh,9,Male,General Hospital,taylor.castaneda@gmail.com,2
+Shane Rojas,Pediatric Surgeon,$663 ,76-113505,Jounieh,0,Male,General Hospital,shane.rojas@gmail.com,4
+Joshua Chandler,Neurosurgeon,"$1,171 ",71-790337,Baalbek,1,Male,Al Zahraa,joshua.chandler@gmail.com,6
+Amber Ramirez,Neurosurgeon,$939 ,71-406426,Jounieh,10,Female,General Hospital,amber.ramirez@gmail.com,15
+Timothy Phillips,Oncologic Surgeon,"$1,390 ",76-714847,Nabatieh,0,Male,Al Najda,timothy.phillips@gmail.com,34
+Amanda Thomas,Urologic Surgeon,"$1,336 ",81-366241,Sidon,2,Female,General Hospital,amanda.thomas@gmail.com,4
+Rose Stone,Urologic Surgeon,"$1,267 ",71-824147,Tripoli,3,Female,General Hospital,rose.stone@gmail.com,27
+Nicholas Drake,Plastic Surgeon,"$1,345 ",81-533124,Beirut,3,Male,Rafic Hariri,nicholas.drake@gmail.com,35
+Anne Willis,Urologic Surgeon,$383 ,76-519602,Aley,9,Female,Mount Lebanon,anne.willis@gmail.com,33
+Katrina Graham,Neurosurgeon,"$1,068 ",71-827198,Byblos,4,Female,Saint Georges,katrina.graham@gmail.com,20
+Tami Hill,Vascular Surgeon,$677 ,71-827817,Tyre,10,Male,General Hospital,tami.hill@gmail.com,11
+Angela Allen,Plastic Surgeon,$425 ,76-717078,Nabatieh,1,Female,Hammoud Hospital,angela.allen@gmail.com,13
+Karen Johnson,Pediatric Surgeon,$497 ,81-236414,Tyre,5,Female,General Hospital,karen.johnson@gmail.com,8
+Charles Richardson,Oncologic Surgeon,"$1,448 ",81-294248,Zahle,2,Male,General Hospital,charles.richardson@gmail.com,14
+Alicia Pratt,Oncologic Surgeon,$621 ,81-686585,Sidon,9,Female,General Hospital,alicia.pratt@gmail.com,27
+Ann Davis,Cardiothoracic Surgeon,$806 ,81-999018,Zahle,0,Female,General Hospital,ann.davis@gmail.com,35
+Jennifer Davis,Urologic Surgeon,$974 ,71-313566,Beirut,9,Female,Najjar,jennifer.davis@gmail.com,25
+Cory Rice,Vascular Surgeon,"$1,206 ",81-401328,Zahle,0,Male,General Hospital,cory.rice@gmail.com,24
+Jacob Alexander,Urologic Surgeon,"$1,060 ",76-163642,Baalbek,2,Male,Al Zahraa,jacob.alexander@gmail.com,3
+Devin Reynolds,Orthopedic Surgeon,$986 ,76-405040,Beirut,10,Male,Najjar,devin.reynolds@gmail.com,9
+Richard Singh,General Surgeon,"$1,465 ",81-602455,Sidon,3,Male,General Hospital,richard.singh@gmail.com,16
+Dana Davidson,Plastic Surgeon,$711 ,81-564476,Baalbek,4,Female,Dar El Amal,dana.davidson@gmail.com,26
+Wanda Banks,Orthopedic Surgeon,$848 ,81-216904,Byblos,2,Female,Saint Georges,wanda.banks@gmail.com,33
+Michael Martin,Plastic Surgeon,$427 ,76-432402,Baalbek,6,Male,Al Zahraa,michael.martin@gmail.com,12
+Jeffrey Perez,Neurosurgeon,$858 ,81-882176,Sidon,4,Male,General Hospital,jeffrey.perez@gmail.com,23
+Kimberly Thomas,General Surgeon,$600 ,71-559457,Tyre,10,Female,General Hospital,kimberly.thomas@gmail.com,8
+Carrie Brown,Orthopedic Surgeon,$844 ,76-980006,Byblos,2,Male,Notre Dame de Secours,carrie.brown@gmail.com,34
+Teresa Mitchell,Oncologic Surgeon,"$1,103 ",81-427577,Tyre,4,Female,General Hospital,teresa.mitchell@gmail.com,34
+Zachary Frank,Orthopedic Surgeon,$378 ,71-167771,Beirut,9,Male,Rafic Hariri,zachary.frank@gmail.com,27
+Abigail Swanson,Plastic Surgeon,$404 ,71-274391,Jounieh,3,Male,General Hospital,abigail.swanson@gmail.com,2
+Eric Ellis,Pediatric Surgeon,$938 ,81-425310,Sidon,3,Male,General Hospital,eric.ellis@gmail.com,8
+Michael Hawkins,Neurosurgeon,$606 ,71-543195,Baalbek,0,Male,Al Zahraa,michael.hawkins@gmail.com,35
+Matthew Hernandez,Vascular Surgeon,"$1,241 ",81-228654,Beirut,4,Male,AUBMC,matthew.hernandez@gmail.com,15
+Brandon Hansen,Neurosurgeon,"$1,150 ",76-966075,Zahle,1,Male,General Hospital,brandon.hansen@gmail.com,27
+Samantha Butler,Plastic Surgeon,$639 ,76-389679,Jounieh,1,Female,General Hospital,samantha.butler@gmail.com,7
+Angela Robertson,Neurosurgeon,"$1,376 ",81-462461,Baalbek,8,Female,Al Zahraa,angela.robertson@gmail.com,26
+Maria Burton,Orthopedic Surgeon,"$1,205 ",71-510048,Tyre,9,Female,General Hospital,maria.burton@gmail.com,35
+Sierra Petersen,Oncologic Surgeon,"$1,372 ",81-832259,Tyre,0,Female,General Hospital,sierra.petersen@gmail.com,3
+Veronica Rogers,Plastic Surgeon,$466 ,81-968520,Tyre,5,Female,General Hospital,veronica.rogers@gmail.com,9
+Philip Saunders,Vascular Surgeon,$756 ,71-509396,Nabatieh,10,Male,Al Najda,philip.saunders@gmail.com,26
+Amy Tapia,Urologic Surgeon,$662 ,76-651188,Zahle,2,Female,General Hospital,amy.tapia@gmail.com,9
+Julie Hardy,General Surgeon,"$1,414 ",81-504033,Jounieh,9,Female,General Hospital,julie.hardy@gmail.com,5
+Victoria Perez,Cardiothoracic Surgeon,$579 ,81-451255,Tyre,4,Female,General Hospital,victoria.perez@gmail.com,35
+Andrew Hammond,General Surgeon,$322 ,81-181458,Aley,4,Male,Aley Medical Center,andrew.hammond@gmail.com,7
+James Kline,General Surgeon,"$1,017 ",71-213441,Zahle,1,Male,General Hospital,james.kline@gmail.com,22
+Sarah Houston,General Surgeon,"$1,436 ",76-475750,Tyre,6,Female,General Hospital,sarah.houston@gmail.com,31
+Debbie Dudley,Neurosurgeon,"$1,490 ",71-613610,Nabatieh,0,Female,Al Najda,debbie.dudley@gmail.com,34
+Alan Espinoza,Pediatric Surgeon,$735 ,76-677418,Beirut,3,Male,CMC,alan.espinoza@gmail.com,26
+David Mooney,Neurosurgeon,$723 ,71-477299,Baalbek,5,Male,Dar El Amal,david.mooney@gmail.com,8
+Samantha James,Urologic Surgeon,"$1,180 ",81-373166,Byblos,1,Female,Notre Dame de Secours,samantha.james@gmail.com,26
+Christine Reese,Cardiothoracic Surgeon,$639 ,71-882769,Tyre,1,Female,General Hospital,christine.reese@gmail.com,12
+Kelly Owens,Oncologic Surgeon,$846 ,81-334251,Byblos,8,Female,Notre Dame de Secours,kelly.owens@gmail.com,32
+Andrew Diaz,Urologic Surgeon,$760 ,71-150964,Baalbek,6,Male,Dar El Amal,andrew.diaz@gmail.com,15
+Patrick Robinson,Cardiothoracic Surgeon,$639 ,76-646814,Tyre,4,Male,General Hospital,patrick.robinson@gmail.com,23
+Marcus Maddox,Orthopedic Surgeon,"$1,415 ",76-564811,Aley,1,Male,Aley Medical Center,marcus.maddox@gmail.com,7
+Mary Mitchell,General Surgeon,$671 ,76-879294,Aley,2,Female,Aley Medical Center,mary.mitchell@gmail.com,32
+Tracy Cook,General Surgeon,"$1,240 ",71-829970,Jounieh,2,Female,General Hospital,tracy.cook@gmail.com,14
+Regina Garcia,Urologic Surgeon,"$1,119 ",81-699887,Zahle,4,Female,General Hospital,regina.garcia@gmail.com,5
+Richard Morris,Vascular Surgeon,$401 ,71-174717,Tripoli,5,Male,General Hospital,richard.morris@gmail.com,15
+Tabitha Hawkins,Oncologic Surgeon,"$1,443 ",71-333859,Byblos,9,Female,Saint Georges,tabitha.hawkins@gmail.com,16
+David Walton,Plastic Surgeon,"$1,131 ",81-500475,Zahle,10,Male,General Hospital,david.walton@gmail.com,19
+Daniel Brown,Urologic Surgeon,"$1,139 ",71-718396,Aley,0,Male,Aley Medical Center,daniel.brown@gmail.com,34
+Sydney Ramos,Oncologic Surgeon,$748 ,71-424757,Beirut,2,Female,Rafic Hariri,sydney.ramos@gmail.com,10
+Joseph Harris,Plastic Surgeon,"$1,386 ",76-208651,Zahle,1,Male,General Hospital,joseph.harris@gmail.com,15
+Emily Hebert,General Surgeon,"$1,104 ",76-487028,Zahle,10,Female,General Hospital,emily.hebert@gmail.com,3
+Kim Robinson,General Surgeon,$813 ,81-341079,Byblos,2,Female,Saint Georges,kim.robinson@gmail.com,24
+Anthony Hernandez,Oncologic Surgeon,$850 ,76-236358,Zahle,0,Male,General Hospital,anthony.hernandez@gmail.com,13
+Miguel Romero,Cardiothoracic Surgeon,"$1,416 ",71-825202,Beirut,2,Male,Rafic Hariri,miguel.romero@gmail.com,28
+Paul Thomas,Urologic Surgeon,$499 ,71-732662,Aley,8,Male,Mount Lebanon,paul.thomas@gmail.com,17
+Carrie Jones,Urologic Surgeon,"$1,359 ",71-518573,Baalbek,8,Male,Dar El Amal,carrie.jones@gmail.com,10
+Daniel Davis,Cardiothoracic Surgeon,$940 ,81-224374,Baalbek,6,Male,Dar El Amal,daniel.davis@gmail.com,5
+Michael Cantu,Vascular Surgeon,"$1,398 ",76-359797,Nabatieh,1,Male,Al Najda,michael.cantu@gmail.com,7
+Sergio Hill,Oncologic Surgeon,$922 ,71-647574,Jounieh,6,Male,General Hospital,sergio.hill@gmail.com,1
+Alexander Perez,Plastic Surgeon,"$1,092 ",81-430313,Byblos,0,Male,Notre Dame de Secours,alexander.perez@gmail.com,27
+Jordan Valencia,Vascular Surgeon,"$1,117 ",71-477347,Zahle,4,Male,General Hospital,jordan.valencia@gmail.com,27
+Laura Barnett,Pediatric Surgeon,"$1,298 ",81-775499,Tripoli,2,Female,General Hospital,laura.barnett@gmail.com,31
+Deanna Walker,Urologic Surgeon,$595 ,71-592508,Tripoli,8,Female,General Hospital,deanna.walker@gmail.com,17
+Christian Wilkinson,Vascular Surgeon,"$1,182 ",76-446677,Zahle,7,Male,General Hospital,christian.wilkinson@gmail.com,13
+Rebecca Oliver,Orthopedic Surgeon,$571 ,76-230665,Tripoli,0,Female,General Hospital,rebecca.oliver@gmail.com,26
+Robert Hill,Urologic Surgeon,"$1,146 ",76-970388,Aley,1,Male,Mount Lebanon,robert.hill@gmail.com,31
+Rachel Anderson,Neurosurgeon,$755 ,81-456207,Nabatieh,0,Female,Al Najda,rachel.anderson@gmail.com,11
+Kimberly Webster,General Surgeon,$665 ,81-606291,Sidon,0,Female,General Hospital,kimberly.webster@gmail.com,32
+Ryan Brown,General Surgeon,$884 ,81-997248,Beirut,1,Male,AUBMC,ryan.brown@gmail.com,16
+Lynn Anderson,Plastic Surgeon,$470 ,76-967281,Baalbek,6,Female,Al Zahraa,lynn.anderson@gmail.com,25
+Sara Hill,General Surgeon,$525 ,71-502900,Zahle,9,Female,General Hospital,sara.hill@gmail.com,25
+Lisa Hodge,General Surgeon,$704 ,76-562376,Nabatieh,1,Female,Al Najda,lisa.hodge@gmail.com,31
+Tim Maldonado,Oncologic Surgeon,$718 ,76-298804,Byblos,9,Male,Saint Georges,tim.maldonado@gmail.com,27
+Paige Garcia,Urologic Surgeon,"$1,076 ",81-453162,Zahle,6,Male,General Hospital,paige.garcia@gmail.com,27
+Diane Barry,Cardiothoracic Surgeon,"$1,302 ",71-449579,Aley,8,Male,Aley Medical Center,diane.barry@gmail.com,6
+Rebecca Ford,Pediatric Surgeon,$983 ,81-665938,Zahle,3,Female,General Hospital,rebecca.ford@gmail.com,30
+Lance Bernard,General Surgeon,$492 ,76-180071,Baalbek,1,Male,Dar El Amal,lance.bernard@gmail.com,27
+Danielle Haley,Oncologic Surgeon,$852 ,76-351767,Byblos,1,Male,Notre Dame de Secours,danielle.haley@gmail.com,27
+Stuart Goodman,Plastic Surgeon,"$1,486 ",81-639222,Tripoli,0,Male,General Hospital,stuart.goodman@gmail.com,5
+Amanda Ford,Vascular Surgeon,$386 ,71-963771,Byblos,0,Female,Saint Georges,amanda.ford@gmail.com,31
+Joseph Duncan,Orthopedic Surgeon,$565 ,76-860630,Tyre,9,Male,General Hospital,joseph.duncan@gmail.com,20
+Ricky Davis,Urologic Surgeon,$794 ,71-102725,Jounieh,5,Male,General Hospital,ricky.davis@gmail.com,33
+Kevin Pierce,Cardiothoracic Surgeon,$691 ,81-153107,Baalbek,1,Male,Dar El Amal,kevin.pierce@gmail.com,28
+Heather Taylor,Neurosurgeon,$336 ,81-598172,Jounieh,2,Female,General Hospital,heather.taylor@gmail.com,5
+Gerald Brown,Urologic Surgeon,"$1,474 ",76-846653,Zahle,9,Male,General Hospital,gerald.brown@gmail.com,34
+Joanna Garcia,Pediatric Surgeon,$430 ,76-215361,Tyre,1,Female,General Hospital,joanna.garcia@gmail.com,28
+Brian Hall,Cardiothoracic Surgeon,$511 ,71-990771,Nabatieh,2,Male,Al Najda,brian.hall@gmail.com,23
+Lisa Gonzalez,Cardiothoracic Surgeon,$632 ,71-353721,Nabatieh,7,Female,Hammoud Hospital,lisa.gonzalez@gmail.com,35
+Tiffany Reed,General Surgeon,"$1,045 ",81-167568,Tyre,3,Female,General Hospital,tiffany.reed@gmail.com,25
+Jason Knox,Vascular Surgeon,$943 ,71-233950,Tyre,2,Male,General Hospital,jason.knox@gmail.com,19
+Caitlin Aguilar,Vascular Surgeon,$500 ,76-623554,Zahle,1,Female,General Hospital,caitlin.aguilar@gmail.com,4
+Jessica Wade,General Surgeon,$667 ,81-515449,Byblos,5,Female,Notre Dame de Secours,jessica.wade@gmail.com,18
+Ricky Williams,Orthopedic Surgeon,"$1,500 ",76-548948,Zahle,6,Male,General Hospital,ricky.williams@gmail.com,4
+Tina Henderson,Plastic Surgeon,$422 ,81-824090,Sidon,4,Female,General Hospital,tina.henderson@gmail.com,2
+Collin Daniel,Pediatric Surgeon,"$1,285 ",71-188954,Byblos,3,Male,Saint Georges,collin.daniel@gmail.com,1
+Heidi Thomas,Pediatric Surgeon,$760 ,71-818245,Aley,7,Female,Mount Lebanon,heidi.thomas@gmail.com,2
+Jeffrey Sanchez,Pediatric Surgeon,$736 ,81-405513,Nabatieh,8,Male,Al Najda,jeffrey.sanchez@gmail.com,22
+Leslie Wilkerson,Cardiothoracic Surgeon,"$1,190 ",81-706904,Tripoli,5,Male,General Hospital,leslie.wilkerson@gmail.com,21
+Katherine Soto,Vascular Surgeon,"$1,495 ",76-785688,Baalbek,10,Female,Al Zahraa,katherine.soto@gmail.com,10
+Ryan Bass,Urologic Surgeon,"$1,412 ",76-328925,Aley,4,Male,Mount Lebanon,ryan.bass@gmail.com,17
+Rachel Maxwell,Orthopedic Surgeon,$759 ,76-645922,Baalbek,5,Female,Dar El Amal,rachel.maxwell@gmail.com,14
+Joseph Marshall,Pediatric Surgeon,"$1,009 ",71-199102,Tripoli,10,Male,General Hospital,joseph.marshall@gmail.com,17
+Jacqueline Fields,General Surgeon,$993 ,71-780041,Tyre,7,Male,General Hospital,jacqueline.fields@gmail.com,13
+Melanie Duncan,Orthopedic Surgeon,$641 ,76-966061,Byblos,1,Female,Notre Dame de Secours,melanie.duncan@gmail.com,1
+Christian Myers,Vascular Surgeon,$981 ,81-986689,Baalbek,6,Male,Dar El Amal,christian.myers@gmail.com,19
+Tiffany Simmons,Neurosurgeon,$322 ,71-844309,Beirut,0,Male,Najjar,tiffany.simmons@gmail.com,15
+Gloria Klein,Oncologic Surgeon,$380 ,81-780549,Nabatieh,7,Female,Al Najda,gloria.klein@gmail.com,33
+Samantha Sanchez,Pediatric Surgeon,$800 ,71-502581,Sidon,5,Female,General Hospital,samantha.sanchez@gmail.com,14
+Kevin Wells,General Surgeon,$802 ,71-121922,Aley,0,Male,Mount Lebanon,kevin.wells@gmail.com,20
+Kelly Booker,Cardiothoracic Surgeon,"$1,386 ",71-102377,Byblos,9,Female,Notre Dame de Secours,kelly.booker@gmail.com,20
+Carol Gonzalez,Urologic Surgeon,$636 ,71-233567,Jounieh,10,Female,General Hospital,carol.gonzalez@gmail.com,33
+Robert Perez,Orthopedic Surgeon,$427 ,71-568517,Nabatieh,5,Male,Hammoud Hospital,robert.perez@gmail.com,24
+Laura Todd,Pediatric Surgeon,$670 ,71-562963,Zahle,10,Female,General Hospital,laura.todd@gmail.com,20
+Angela Smith,General Surgeon,$796 ,81-641749,Zahle,6,Female,General Hospital,angela.smith@gmail.com,8
+Destiny Clements,General Surgeon,"$1,217 ",76-738769,Tripoli,9,Female,General Hospital,destiny.clements@gmail.com,33
+Shane Perez,Pediatric Surgeon,$649 ,81-423863,Byblos,1,Male,Notre Dame de Secours,shane.perez@gmail.com,15
+Casey Robinson,Neurosurgeon,$500 ,76-462464,Byblos,2,Male,Notre Dame de Secours,casey.robinson@gmail.com,2
+Debra Hall,Plastic Surgeon,$504 ,76-793973,Tyre,10,Male,General Hospital,debra.hall@gmail.com,27
+Jennifer Hernandez,Plastic Surgeon,$471 ,76-185000,Tyre,10,Female,General Hospital,jennifer.hernandez@gmail.com,17
+Victor Simpson,General Surgeon,"$1,245 ",76-563928,Nabatieh,1,Male,Al Najda,victor.simpson@gmail.com,17
+Tara Gray,Cardiothoracic Surgeon,"$1,283 ",76-303834,Tripoli,10,Female,General Hospital,tara.gray@gmail.com,15
+Robert Carter,Plastic Surgeon,$631 ,71-988677,Jounieh,6,Male,General Hospital,robert.carter@gmail.com,3
+Allison Lane,Orthopedic Surgeon,$356 ,76-846806,Sidon,2,Female,General Hospital,allison.lane@gmail.com,13
+Paul Baker,General Surgeon,"$1,411 ",76-713328,Byblos,9,Male,Saint Georges,paul.baker@gmail.com,23
+Brian Davis,Neurosurgeon,"$1,284 ",71-576188,Aley,9,Male,Aley Medical Center,brian.davis@gmail.com,29
+Rodney Robinson,Orthopedic Surgeon,$628 ,71-136477,Aley,5,Male,Mount Lebanon,rodney.robinson@gmail.com,16
+Amy Martinez,Plastic Surgeon,"$1,195 ",76-589178,Tripoli,10,Female,General Hospital,amy.martinez@gmail.com,22
+Jennifer Larson,Plastic Surgeon,$725 ,71-543115,Nabatieh,7,Female,Al Najda,jennifer.larson@gmail.com,2
+Jeffrey Adams,Urologic Surgeon,"$1,071 ",71-331092,Jounieh,3,Male,General Hospital,jeffrey.adams@gmail.com,8
+Christopher Hess,Neurosurgeon,$309 ,71-222162,Tyre,3,Male,General Hospital,christopher.hess@gmail.com,12
+Andrea Hernandez,Neurosurgeon,"$1,420 ",76-381909,Tyre,5,Female,General Hospital,andrea.hernandez@gmail.com,20
+Stephanie Larsen,Vascular Surgeon,$582 ,71-205050,Tyre,6,Female,General Hospital,stephanie.larsen@gmail.com,18
+Jodi Garcia,Plastic Surgeon,"$1,385 ",71-471863,Zahle,5,Female,General Hospital,jodi.garcia@gmail.com,26
+Michael Barnes,Neurosurgeon,"$1,192 ",71-490199,Jounieh,4,Male,General Hospital,michael.barnes@gmail.com,22
+Michael Jacobs,Cardiothoracic Surgeon,$480 ,81-560619,Sidon,1,Male,General Hospital,michael.jacobs@gmail.com,25
+Scott Lane,Urologic Surgeon,$609 ,81-381772,Byblos,8,Male,Saint Georges,scott.lane@gmail.com,32
+Theresa Carey,Pediatric Surgeon,"$1,094 ",71-929606,Jounieh,1,Female,General Hospital,theresa.carey@gmail.com,4
+Brenda Thompson,Neurosurgeon,"$1,098 ",76-976476,Zahle,10,Female,General Hospital,brenda.thompson@gmail.com,15
+Amy Lawson,Cardiothoracic Surgeon,$904 ,81-987564,Baalbek,3,Female,Al Zahraa,amy.lawson@gmail.com,17
+Amy Doyle,Urologic Surgeon,$660 ,71-224080,Nabatieh,7,Female,Al Najda,amy.doyle@gmail.com,26
+Kelly Terry,Cardiothoracic Surgeon,"$1,268 ",81-514183,Aley,10,Male,Aley Medical Center,kelly.terry@gmail.com,5
+Curtis Clark,Pediatric Surgeon,$977 ,76-823631,Zahle,4,Male,General Hospital,curtis.clark@gmail.com,33
+Jose Rodriguez,Neurosurgeon,$785 ,81-606669,Baalbek,5,Male,Al Zahraa,jose.rodriguez@gmail.com,9
+Phillip Odom,Urologic Surgeon,$327 ,71-619333,Aley,4,Male,Mount Lebanon,phillip.odom@gmail.com,15
+Mary Burton,Pediatric Surgeon,"$1,003 ",76-741082,Jounieh,6,Female,General Hospital,mary.burton@gmail.com,5
+Kathleen Pearson,Urologic Surgeon,$955 ,81-760033,Nabatieh,5,Female,Hammoud Hospital,kathleen.pearson@gmail.com,29
+Todd Peters,Cardiothoracic Surgeon,$959 ,76-603858,Beirut,8,Male,Najjar,todd.peters@gmail.com,17
+Lisa Collins,Vascular Surgeon,"$1,087 ",81-863481,Nabatieh,5,Female,Hammoud Hospital,lisa.collins@gmail.com,20
+Blake Williams,Neurosurgeon,"$1,420 ",81-219487,Tyre,9,Male,General Hospital,blake.williams@gmail.com,7
+Jeffrey Roman,Urologic Surgeon,"$1,380 ",76-181304,Beirut,10,Male,Rafic Hariri,jeffrey.roman@gmail.com,28
+Danny Castillo,Oncologic Surgeon,"$1,146 ",76-322107,Aley,8,Male,Aley Medical Center,danny.castillo@gmail.com,22
+Brittany Ellison,Orthopedic Surgeon,$805 ,81-732257,Tyre,7,Female,General Hospital,brittany.ellison@gmail.com,2
+Loretta Giles,Oncologic Surgeon,$502 ,76-520820,Nabatieh,10,Female,Hammoud Hospital,loretta.giles@gmail.com,7
+Jacqueline Moore,Orthopedic Surgeon,$615 ,76-753296,Sidon,9,Male,General Hospital,jacqueline.moore@gmail.com,29
+Jennifer Cervantes,Orthopedic Surgeon,$561 ,81-670994,Zahle,3,Female,General Hospital,jennifer.cervantes@gmail.com,12
+Matthew Petersen,Neurosurgeon,"$1,148 ",81-476127,Byblos,4,Male,Saint Georges,matthew.petersen@gmail.com,6
+Cynthia Fisher,Pediatric Surgeon,$658 ,76-309011,Tripoli,8,Female,General Hospital,cynthia.fisher@gmail.com,6
+Sara Hammond,Cardiothoracic Surgeon,"$1,365 ",76-912202,Jounieh,1,Female,General Hospital,sara.hammond@gmail.com,17
+Melissa King,General Surgeon,"$1,399 ",76-225721,Tripoli,7,Female,General Hospital,melissa.king@gmail.com,14
+Robert Reese,Urologic Surgeon,$408 ,81-349496,Jounieh,8,Male,General Hospital,robert.reese@gmail.com,33
+Taylor Taylor,Plastic Surgeon,$933 ,71-805377,Tyre,3,Male,General Hospital,taylor.taylor@gmail.com,10
+John Baldwin,Neurosurgeon,$667 ,71-368530,Jounieh,8,Male,General Hospital,john.baldwin@gmail.com,3
+Alison Perkins,General Surgeon,"$1,251 ",76-573979,Sidon,9,Female,General Hospital,alison.perkins@gmail.com,18
+John Berry,Plastic Surgeon,"$1,287 ",71-167573,Tripoli,3,Male,General Hospital,john.berry@gmail.com,35
+Eric Rogers,Cardiothoracic Surgeon,$543 ,76-471443,Byblos,4,Male,Saint Georges,eric.rogers@gmail.com,8
+Isaac Stark,General Surgeon,$858 ,81-782118,Beirut,7,Male,Najjar,isaac.stark@gmail.com,29
+James Guzman,Orthopedic Surgeon,$663 ,81-102139,Tyre,4,Male,General Hospital,james.guzman@gmail.com,14
+Joel Pearson,Neurosurgeon,$370 ,76-853359,Nabatieh,4,Male,Al Najda,joel.pearson@gmail.com,30
+Frederick Morgan,General Surgeon,$671 ,76-132567,Aley,1,Male,Mount Lebanon,frederick.morgan@gmail.com,34
+Joseph Brown,Oncologic Surgeon,"$1,118 ",76-539699,Zahle,3,Male,General Hospital,joseph.brown@gmail.com,13
+Hayley Marshall,Plastic Surgeon,"$1,258 ",71-940036,Beirut,4,Male,CMC,hayley.marshall@gmail.com,25
+Regina Horne,Urologic Surgeon,"$1,114 ",76-505860,Byblos,6,Female,Notre Dame de Secours,regina.horne@gmail.com,11
+Laura Ortiz,General Surgeon,"$1,087 ",81-190900,Tyre,9,Female,General Hospital,laura.ortiz@gmail.com,16
+Sherri Kelly,General Surgeon,"$1,317 ",81-517670,Nabatieh,6,Female,Hammoud Hospital,sherri.kelly@gmail.com,34
+Lisa Carter,Plastic Surgeon,$884 ,71-152163,Tripoli,4,Female,General Hospital,lisa.carter@gmail.com,8
+Stephanie Williams,Oncologic Surgeon,"$1,462 ",76-848954,Byblos,1,Female,Notre Dame de Secours,stephanie.williams@gmail.com,18
+Marco Harris,Pediatric Surgeon,$429 ,81-108894,Nabatieh,9,Male,Hammoud Hospital,marco.harris@gmail.com,13
+Nicholas Trujillo,Vascular Surgeon,"$1,097 ",71-157992,Tripoli,10,Male,General Hospital,nicholas.trujillo@gmail.com,18
+Karla Crawford,Orthopedic Surgeon,$389 ,81-487918,Tripoli,7,Female,General Hospital,karla.crawford@gmail.com,21
+Whitney Lopez,Urologic Surgeon,$718 ,76-519589,Byblos,1,Female,Saint Georges,whitney.lopez@gmail.com,10
+Amber Harris,General Surgeon,"$1,187 ",81-910572,Tripoli,1,Female,General Hospital,amber.harris@gmail.com,5
+Brittany George,General Surgeon,$555 ,81-871279,Zahle,1,Female,General Hospital,brittany.george@gmail.com,24
+Anthony Costa,Oncologic Surgeon,"$1,353 ",81-909882,Zahle,9,Male,General Hospital,anthony.costa@gmail.com,34
+Brenda Brown,Vascular Surgeon,"$1,034 ",71-119665,Aley,4,Female,Aley Medical Center,brenda.brown@gmail.com,10
+Brian Black,Cardiothoracic Surgeon,$412 ,76-330442,Baalbek,5,Male,Al Zahraa,brian.black@gmail.com,14
+Michelle Mendez,Urologic Surgeon,"$1,151 ",81-973569,Jounieh,10,Male,General Hospital,michelle.mendez@gmail.com,17
+Brian Chavez,Vascular Surgeon,$622 ,81-724776,Nabatieh,0,Male,Hammoud Hospital,brian.chavez@gmail.com,28
+Michael Lyons,Orthopedic Surgeon,"$1,003 ",71-266995,Baalbek,1,Male,Al Zahraa,michael.lyons@gmail.com,26
+Jordan Gomez,General Surgeon,$935 ,81-125529,Nabatieh,4,Male,Al Najda,jordan.gomez@gmail.com,30
+Megan Lewis,Cardiothoracic Surgeon,$536 ,81-533253,Baalbek,8,Female,Al Zahraa,megan.lewis@gmail.com,13
+Laura Chavez,Plastic Surgeon,$616 ,81-726853,Sidon,10,Female,General Hospital,laura.chavez@gmail.com,26
+Darren Hall,Pediatric Surgeon,"$1,304 ",76-343277,Tripoli,5,Male,General Hospital,darren.hall@gmail.com,16
+Samantha Gomez,Oncologic Surgeon,$824 ,76-368822,Beirut,7,Female,Najjar,samantha.gomez@gmail.com,18
+Steven Greer,Oncologic Surgeon,$805 ,76-438380,Beirut,6,Male,AUBMC,steven.greer@gmail.com,4
+Larry Payne,General Surgeon,"$1,414 ",76-940671,Aley,1,Male,Mount Lebanon,larry.payne@gmail.com,2
+Kimberly Cannon,General Surgeon,"$1,061 ",71-958418,Jounieh,3,Female,General Hospital,kimberly.cannon@gmail.com,18
+Deborah Wright,Urologic Surgeon,$497 ,71-244561,Nabatieh,4,Male,Al Najda,deborah.wright@gmail.com,25
+Mark Gordon,Urologic Surgeon,"$1,254 ",81-617436,Tripoli,8,Male,General Hospital,mark.gordon@gmail.com,11
+April Taylor,Orthopedic Surgeon,"$1,397 ",76-288573,Jounieh,7,Male,General Hospital,april.taylor@gmail.com,17
+Brian Dickerson,Pediatric Surgeon,$656 ,71-340988,Aley,8,Male,Mount Lebanon,brian.dickerson@gmail.com,31
+Sara Ray,Orthopedic Surgeon,$998 ,81-785243,Baalbek,3,Female,Dar El Amal,sara.ray@gmail.com,12
+Sarah Duncan,Pediatric Surgeon,$729 ,76-193971,Beirut,9,Female,Rafic Hariri,sarah.duncan@gmail.com,22
+Lauren Shaw,Orthopedic Surgeon,$659 ,81-143207,Jounieh,8,Female,General Hospital,lauren.shaw@gmail.com,6
+Scott Hernandez,Vascular Surgeon,$806 ,76-275749,Jounieh,1,Male,General Hospital,scott.hernandez@gmail.com,30
+Paul Bush,Orthopedic Surgeon,"$1,143 ",81-254625,Jounieh,3,Male,General Hospital,paul.bush@gmail.com,26
+Danielle Torres,Neurosurgeon,"$1,497 ",81-325463,Beirut,7,Male,AUBMC,danielle.torres@gmail.com,6
+Sarah Thomas,General Surgeon,$494 ,71-950474,Aley,8,Female,Aley Medical Center,sarah.thomas@gmail.com,9
+Jamie Thomas,Vascular Surgeon,$614 ,71-147734,Tyre,9,Male,General Hospital,jamie.thomas@gmail.com,35
+Grace Santos,Oncologic Surgeon,$754 ,71-288233,Tyre,6,Female,General Hospital,grace.santos@gmail.com,13
+Joshua Ramirez,Neurosurgeon,$334 ,76-692877,Jounieh,0,Male,General Hospital,joshua.ramirez@gmail.com,30
+Veronica Smith,Orthopedic Surgeon,"$1,360 ",76-137481,Zahle,4,Female,General Hospital,veronica.smith@gmail.com,29
+David Simpson,Vascular Surgeon,"$1,244 ",81-211874,Byblos,2,Male,Notre Dame de Secours,david.simpson@gmail.com,7
+Leonard Coleman,Neurosurgeon,$373 ,81-447736,Jounieh,1,Male,General Hospital,leonard.coleman@gmail.com,16
+Jacqueline Stewart,Pediatric Surgeon,"$1,018 ",71-132932,Baalbek,2,Female,Al Zahraa,jacqueline.stewart@gmail.com,18
